@@ -1,0 +1,18 @@
+﻿{
+  "name": "BidPilot — Commercial Procurement & Defense RFP Engine",
+  "short_name": "BidPilot",
+  "description": "BidPilot — Commercial Procurement & Defense RFP Engine developed by Abdlrrahman Shibani",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#2563eb",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

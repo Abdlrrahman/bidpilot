@@ -1,0 +1,290 @@
+[
+  {
+    "id": "req-del-01",
+    "ref": "DEL-01",
+    "section": "Section 4.1",
+    "title": {
+      "en": "DDP Incoterms 2020 to Designated Municipal Warehouses",
+      "ar": "شروط التسليم DDP وفق إنكوترمز 2020 لمخازن البلديات"
+    },
+    "description": {
+      "en": "Delivered Duty Paid (DDP) including freight, customs clearance, port handling to Tripoli & Benghazi.",
+      "ar": "التسليم خالٍ من الرسوم والجمارك (DDP) شاملاً الشحن والتخليص والنقل إلى طرابلس وبنغازي."
+    },
+    "category": "delivery",
+    "isMandatory": true,
+    "weight": 5,
+    "state": "comply",
+    "proposedResponse": {
+      "en": "Full DDP delivery provided with clearing agency partner in Tripoli and Benghazi ports.",
+      "ar": "تقديم تسليم DDP متكامل عبر وكيل تخليص وشحن في موانئ طرابلس وبنغازي."
+    },
+    "evidenceId": "doc-logistics-plan",
+    "owner": "Logistics Lead",
+    "reviewerNotes": "Clearing agent SLA in place."
+  },
+  {
+    "id": "req-del-02",
+    "ref": "DEL-02",
+    "section": "Section 4.3",
+    "title": {
+      "en": "Maximum 45 Calendar Days from Purchase Order Issuance",
+      "ar": "مدة تسليم لا تتجاوز 45 يوماً تقويمياً من أمر الشراء"
+    },
+    "description": {
+      "en": "Complete physical delivery of all lots within 45 calendar days following receipt of PO.",
+      "ar": "التسليم الفعلي الكامل لجميع البنود خلال 45 يوماً من استلام أمر الشراء."
+    },
+    "category": "delivery",
+    "isMandatory": true,
+    "weight": 5,
+    "state": "comply",
+    "proposedResponse": {
+      "en": "Air freight express routing planned for core servers, achieving 32-day delivery cycle.",
+      "ar": "اعتماد الشحن الجوي السريع للخوادم لتحقيق دورة تسليم في 32 يوماً."
+    },
+    "evidenceId": "doc-logistics-plan",
+    "owner": "Logistics Lead",
+    "reviewerNotes": "Manufacturer lead time 14 days + 10 transit."
+  },
+  {
+    "id": "req-del-03",
+    "ref": "DEL-03",
+    "section": "Section 4.5",
+    "title": {
+      "en": "Export-Grade Heavy Duty Packaging with Drop/Tilt Indicators",
+      "ar": "تغليف تصدير مقاوم للصدمات مع مؤشرات الميل والسقوط"
+    },
+    "description": {
+      "en": "Packed in moisture-barrier crating with single-use DropTag/TiltWatch impact sensors.",
+      "ar": "تغليف في صناديق عازلة للرطوبة مزودة بمؤشرات قياس الصدمات والميلان."
+    },
+    "category": "delivery",
+    "isMandatory": false,
+    "weight": 2,
+    "state": "comply",
+    "proposedResponse": {
+      "en": "Factory export packing includes desiccant packs and exterior DropWatch indicators.",
+      "ar": "تغليف المصنع يشمل أكياس امتصاص الرطوبة ومؤشرات كشف الصدمات."
+    },
+    "evidenceId": "doc-logistics-plan",
+    "owner": "Logistics Lead",
+    "reviewerNotes": "Included in packing specs."
+  },
+  {
+    "id": "req-del-04",
+    "ref": "DEL-04",
+    "section": "Section 4.7",
+    "title": {
+      "en": "Dedicated Warehousing & Staging in Tripoli and Benghazi",
+      "ar": "مستودعات مخصصة ومراكز تجهيز في طرابلس وبنغازي"
+    },
+    "description": {
+      "en": "Maintain temperature-controlled staging facilities in Tripoli and Benghazi for pre-configuration.",
+      "ar": "مرافق تجهيز وتخزين مكيفة وآمنة في طرابلس وبنغازي للإعداد المسبق."
+    },
+    "category": "delivery",
+    "isMandatory": false,
+    "weight": 3,
+    "state": "partial",
+    "proposedResponse": {
+      "en": "Tripoli staging facility owned; Benghazi staging utilizes certified tier-1 partner facility.",
+      "ar": "مرفق طرابلس مملوك وجاهز؛ ومرفق بنغازي يعمل عبر شريك معتمد."
+    },
+    "evidenceId": "doc-sop-deploy",
+    "owner": "Operations Manager",
+    "reviewerNotes": "Partner MOU in place."
+  },
+  {
+    "id": "req-war-01",
+    "ref": "WAR-01",
+    "section": "Section 5.1",
+    "title": {
+      "en": "3-Year Comprehensive On-Site Manufacturer Warranty (36 Mo)",
+      "ar": "ضمان شامل ميداني من المصنع لمدة 3 سنوات"
+    },
+    "description": {
+      "en": "36 months on-site parts and labor replacement warranty directly backed by the OEM.",
+      "ar": "ضمان شامل لاستبدال القطع والعمالة في الموقع لمدة 36 شهراً مدعوم من المصنع."
+    },
+    "category": "warranty",
+    "isMandatory": true,
+    "weight": 5,
+    "state": "comply",
+    "proposedResponse": {
+      "en": "Includes 3-Year 24x7x4 OEM CarePack warranty with manufacturer escalation.",
+      "ar": "يتضمن باقة ضمان 3 سنوات مع وصول مباشر لنظام الدعم المصنعي."
+    },
+    "evidenceId": "doc-oem-warranty",
+    "owner": "Services Delivery Manager",
+    "reviewerNotes": "CarePack certificates factored."
+  },
+  {
+    "id": "req-war-02",
+    "ref": "WAR-02",
+    "section": "Section 5.3",
+    "title": {
+      "en": "4-Hour Initial Triage and Next Business Day On-Site Replacement",
+      "ar": "استجابة أولية خلال 4 ساعات واستبدال ميداني يوم العمل التالي"
+    },
+    "description": {
+      "en": "Critical triage within 4 hours; replacement hardware dispatched and installed within 24 hours.",
+      "ar": "الاستجابة للبلاغات الحرجة خلال 4 ساعات مع استبدال القطع خلال 24 ساعة."
+    },
+    "category": "warranty",
+    "isMandatory": true,
+    "weight": 4,
+    "state": "comply",
+    "proposedResponse": {
+      "en": "24/7 bilingual helpdesk in Tripoli with field engineers stationed in both regions.",
+      "ar": "مكتب مساعدة ثنائي اللغة في طرابلس ومهندسو صيانة ميدانية في المنطقتين."
+    },
+    "evidenceId": "doc-sla-policy",
+    "owner": "Services Delivery Manager",
+    "reviewerNotes": "Field roster verified."
+  },
+  {
+    "id": "req-war-03",
+    "ref": "WAR-03",
+    "section": "Section 5.4",
+    "title": {
+      "en": "5% Local Hot-Spare Parts Buffer Maintained In-Country",
+      "ar": "مخزون احتياطي محلي لقطع الغيار السريعة بنسبة 5%"
+    },
+    "description": {
+      "en": "Stock minimum 5% spare units (power supplies, disks, RAM, fans) in local depots.",
+      "ar": "توفير مخزون 5% من القطع الحساسة (مزودات، أقراص، ذاكرة، مراوح) بمخازن محلية."
+    },
+    "category": "warranty",
+    "isMandatory": false,
+    "weight": 3,
+    "state": "comply",
+    "proposedResponse": {
+      "en": "5% hot-spare buffer factored directly into BOQ and stored in local inventory.",
+      "ar": "تم احتساب مخزون 5% احتياطي مباشر ضمن جدول الكميات والتسعير."
+    },
+    "evidenceId": "doc-sla-policy",
+    "owner": "Procurement Specialist",
+    "reviewerNotes": "Spares budgeted."
+  },
+  {
+    "id": "req-war-04",
+    "ref": "WAR-04",
+    "section": "Section 5.6",
+    "title": {
+      "en": "40 Hours of Certified Training for Municipal IT Administrators",
+      "ar": "40 ساعة تدريبية معتمدة لمسؤولي تقنية المعلومات بالبلديات"
+    },
+    "description": {
+      "en": "Hands-on training on server administration, switch configuration, and disaster recovery.",
+      "ar": "تدريب عملي على إدارة الخوادم، وتهيئة الشبكات، وإجراءات استعادة البيانات."
+    },
+    "category": "warranty",
+    "isMandatory": false,
+    "weight": 3,
+    "state": "comply",
+    "proposedResponse": {
+      "en": "Certified trainers deliver 5-day curriculum with Arabic/English courseware.",
+      "ar": "يقدم مدربون معتمدون دورة 5 أيام مع حقائب تدريبية بالعربية والإنجليزية."
+    },
+    "evidenceId": "doc-sop-deploy",
+    "owner": "Services Delivery Manager",
+    "reviewerNotes": "Syllabus attached."
+  },
+  {
+    "id": "req-sub-01",
+    "ref": "SUB-01",
+    "section": "Section 6.1",
+    "title": {
+      "en": "Strict Separation of Technical (Env A) and Financial (Env B)",
+      "ar": "فصل تام بين العرض الفني (أ) والمالي (ب)"
+    },
+    "description": {
+      "en": "Any pricing figure disclosed in technical proposal results in immediate disqualification.",
+      "ar": "أي إشارة للأسعار داخل العرض الفني تؤدي إلى الاستبعاد الفوري."
+    },
+    "category": "submission",
+    "isMandatory": true,
+    "weight": 5,
+    "state": "comply",
+    "proposedResponse": {
+      "en": "Two distinct encrypted packages prepared. Technical offer verified clean of pricing.",
+      "ar": "إعداد حزمتين مشفرتين منفصلتين مع مراجعة خلو العرض الفني من الأسعار."
+    },
+    "evidenceId": "doc-submission-checklist",
+    "owner": "Bid Manager",
+    "reviewerNotes": "Automated scan passed."
+  },
+  {
+    "id": "req-sub-02",
+    "ref": "SUB-02",
+    "section": "Section 6.3",
+    "title": {
+      "en": "Password-Protected PDF Submission with SHA-256 Checksums",
+      "ar": "تقديم ملفات PDF محمية بكلمة مرور مع كود SHA-256"
+    },
+    "description": {
+      "en": "Submit via donor portal with SHA-256 hash checksums emailed prior to opening.",
+      "ar": "التقديم عبر بوابة المانح مع إرسال بصمة SHA-256 بالبريد قبل فتح المظاريف."
+    },
+    "category": "submission",
+    "isMandatory": true,
+    "weight": 4,
+    "state": "comply",
+    "proposedResponse": {
+      "en": "AES-256 encryption applied. SHA-256 checksums documented in receipt manifest.",
+      "ar": "تطبيق تشفير AES-256 وتوثيق بصمات SHA-256 في كشف التقديم."
+    },
+    "evidenceId": "doc-submission-checklist",
+    "owner": "Bid Manager",
+    "reviewerNotes": "Portal test passed."
+  },
+  {
+    "id": "req-sub-03",
+    "ref": "SUB-03",
+    "section": "Section 6.5",
+    "title": {
+      "en": "Notarized Power of Attorney for Bid Signatory",
+      "ar": "توكيل رسمي موثق للمفوض بالتوقيع"
+    },
+    "description": {
+      "en": "Power of attorney authenticated by public notary granting signing authority.",
+      "ar": "توكيل رسمي صادر عن محرر عقود معتمد يفوض الموقع بإلزام الشركة."
+    },
+    "category": "submission",
+    "isMandatory": true,
+    "weight": 4,
+    "state": "comply",
+    "proposedResponse": {
+      "en": "Authenticated power of attorney for Managing Director attached in Envelope A.",
+      "ar": "توكيل رسمي مصدق للمدير العام مرفق في الظرف الفني أ."
+    },
+    "evidenceId": "doc-legal-registry",
+    "owner": "Legal Officer",
+    "reviewerNotes": "Verified and stamped."
+  },
+  {
+    "id": "req-sub-04",
+    "ref": "SUB-04",
+    "section": "Section 6.7",
+    "title": {
+      "en": "Bilingual Submission: English Master with Certified Arabic",
+      "ar": "تقديم ثنائي اللغة: النسخة الإنجليزية مع ترجمة عربية معتمدة"
+    },
+    "description": {
+      "en": "Submit in English with certified Arabic translations for municipal registry.",
+      "ar": "تقديم كافة الوثائق بالإنجليزية مع ترجمة عربية قانونية معتمدة."
+    },
+    "category": "submission",
+    "isMandatory": false,
+    "weight": 3,
+    "state": "comply",
+    "proposedResponse": {
+      "en": "Complete certified Arabic/English twin dossier prepared by sworn legal translator.",
+      "ar": "إعداد ملف توأم متكامل باللغتين العربية والإنجليزية من مترجم محلف."
+    },
+    "evidenceId": "doc-submission-checklist",
+    "owner": "Bid Manager",
+    "reviewerNotes": "Proofread and verified."
+  }
+]

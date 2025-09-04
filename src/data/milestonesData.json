@@ -1,0 +1,90 @@
+[
+  {
+    "id": "ms-01",
+    "title": {
+      "en": "RFP Release & Compliance Matrix Extraction",
+      "ar": "إصدار كراسة الشروط واستخلاص مصفوفة المطابقة"
+    },
+    "date": "2026-08-15",
+    "owner": "Abdlrrahman Shibani",
+    "status": "completed",
+    "isCritical": false
+  },
+  {
+    "id": "ms-02",
+    "title": {
+      "en": "Clarifications Submission Cutoff",
+      "ar": "الموعد النهائي لتقديم طلبات التوضيح"
+    },
+    "date": "2026-08-28",
+    "owner": "Procurement Specialist",
+    "status": "completed",
+    "isCritical": true
+  },
+  {
+    "id": "ms-03",
+    "title": {
+      "en": "Vendor Quote & Price Lock Finalization",
+      "ar": "استلام عروض الأسعار وتثبيت أسعار المصنعين"
+    },
+    "date": "2026-09-04",
+    "owner": "Commercial Director",
+    "status": "in_progress",
+    "isCritical": true
+  },
+  {
+    "id": "ms-04",
+    "title": {
+      "en": "Executive Go/No-Go Decision Gate",
+      "ar": "جلسة المراجعة التنفيذية لقرار التقدم (Go/No-Go)"
+    },
+    "date": "2026-09-08",
+    "owner": "Executive Review Panel",
+    "status": "upcoming",
+    "isCritical": true
+  },
+  {
+    "id": "ms-05",
+    "title": {
+      "en": "Bank Bid Bond Guarantee Issuance",
+      "ar": "إصدار خطاب الضمان البنكي الابتدائي"
+    },
+    "date": "2026-09-12",
+    "owner": "Treasury Lead",
+    "status": "upcoming",
+    "isCritical": true
+  },
+  {
+    "id": "ms-06",
+    "title": {
+      "en": "Envelope A & B Encryption and Hashes",
+      "ar": "تشفير المظروفين الفني والمالي وتوليد بصمات التشفير"
+    },
+    "date": "2026-09-16",
+    "owner": "Bid Manager",
+    "status": "upcoming",
+    "isCritical": true
+  },
+  {
+    "id": "ms-07",
+    "title": {
+      "en": "Portal Bid Submission Deadline (16:00)",
+      "ar": "الموعد النهائي للتقديم عبر المنصة الإلكترونية"
+    },
+    "date": "2026-09-18",
+    "owner": "Bid Manager",
+    "status": "upcoming",
+    "isCritical": true
+  },
+  {
+    "id": "ms-08",
+    "title": {
+      "en": "Public Technical Opening Session",
+      "ar": "جلسة الفتح العلني للمظاريف الفنية"
+    },
+    "date": "2026-09-22",
+    "owner": "Legal & Procurement Officer",
+    "status": "upcoming",
+    "isCritical": false
+  }
+]

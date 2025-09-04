@@ -1,0 +1,189 @@
+[
+  {
+    "id": "doc-legal-registry",
+    "docCode": "DOC-LEG-01",
+    "title": {
+      "en": "Commercial Registry & Power of Attorney Dossier",
+      "ar": "ملف السجل التجاري ورخصة العمل والتوكيل الرسمي"
+    },
+    "filename": "SYNTH_COMMERCIAL_REGISTRY_2026.pdf",
+    "category": "Legal",
+    "status": "verified",
+    "lastUpdated": "2026-08-12",
+    "validUntil": "2027-12-31",
+    "sizeKb": 1450
+  },
+  {
+    "id": "doc-tax-clearance",
+    "docCode": "DOC-FIN-02",
+    "title": {
+      "en": "Fiscal Tax Clearance Certificate (Form 9B)",
+      "ar": "شهادة إبراء الذمة الضريبية الرسمية (نموذج 9ب)"
+    },
+    "filename": "SYNTH_TAX_CLEARANCE_Q3_2026.pdf",
+    "category": "Financial",
+    "status": "verified",
+    "lastUpdated": "2026-08-10",
+    "validUntil": "2026-11-10",
+    "sizeKb": 680
+  },
+  {
+    "id": "doc-bid-bond",
+    "docCode": "DOC-FIN-03",
+    "title": {
+      "en": "Original Bank Bid Bond Draft (USD 10,000)",
+      "ar": "مسودة خطاب الضمان البنكي الابتدائي (10,000 دولار)"
+    },
+    "filename": "SYNTH_BANK_BID_BOND_DRAFT.pdf",
+    "category": "Commercial",
+    "status": "verified",
+    "lastUpdated": "2026-08-20",
+    "validUntil": "2027-01-18",
+    "sizeKb": 520
+  },
+  {
+    "id": "doc-iso-certs",
+    "docCode": "DOC-QMS-04",
+    "title": {
+      "en": "ISO 9001:2015 & ISO 27001:2022 Accredited Certificates",
+      "ar": "شهادات الجودة المعتمدة آيزو 9001 وآيزو 27001"
+    },
+    "filename": "SYNTH_ISO_ACCREDITATION_PACK.pdf",
+    "category": "Quality",
+    "status": "verified",
+    "lastUpdated": "2026-07-15",
+    "validUntil": "2028-06-30",
+    "sizeKb": 2100
+  },
+  {
+    "id": "doc-datasheet-srv",
+    "docCode": "DOC-TEC-05",
+    "title": {
+      "en": "Tier-1 2U Server OEM Datasheet & Manufacturer Authorization",
+      "ar": "النشرة الفنية لخوادم 2U وخطاب تفويض المصنع الرسمي"
+    },
+    "filename": "SYNTH_OEM_SERVER_R750_DATASHEET.pdf",
+    "category": "Technical",
+    "status": "verified",
+    "lastUpdated": "2026-08-18",
+    "sizeKb": 3400
+  },
+  {
+    "id": "doc-datasheet-net",
+    "docCode": "DOC-TEC-06",
+    "title": {
+      "en": "Enterprise L3 Switch Technical Datasheet & Benchmark",
+      "ar": "النشرة الفنية لمبدلات الشبكة ونتائج الفحص"
+    },
+    "filename": "SYNTH_ENTERPRISE_SWITCH_L3_SPEC.pdf",
+    "category": "Technical",
+    "status": "verified",
+    "lastUpdated": "2026-08-19",
+    "sizeKb": 1850
+  },
+  {
+    "id": "doc-datasheet-laptop",
+    "docCode": "DOC-TEC-07",
+    "title": {
+      "en": "Rugged Business Laptop MIL-STD-810H Compliance Sheet",
+      "ar": "شهادة مطابقة الحواسيب المحمولة للمعيار العسكري"
+    },
+    "filename": "SYNTH_LAPTOP_MIL_STD_CERT.pdf",
+    "category": "Technical",
+    "status": "verified",
+    "lastUpdated": "2026-08-19",
+    "sizeKb": 1200
+  },
+  {
+    "id": "doc-oem-warranty",
+    "docCode": "DOC-WAR-08",
+    "title": {
+      "en": "Manufacturer 3-Year 24x7 On-Site SLA Service Commitment",
+      "ar": "التزام الصيانة الميدانية المعتمد من المصنع لمدة 3 سنوات"
+    },
+    "filename": "SYNTH_OEM_3YR_CAREPACK.pdf",
+    "category": "Warranty",
+    "status": "verified",
+    "lastUpdated": "2026-08-21",
+    "validUntil": "2029-09-30",
+    "sizeKb": 950
+  },
+  {
+    "id": "doc-logistics-plan",
+    "docCode": "DOC-LOG-09",
+    "title": {
+      "en": "Multi-Hub DDP Freight & Clearing Plan",
+      "ar": "خطة الشحن والتخليص الجمركي متعدد المراكز"
+    },
+    "filename": "SYNTH_LOGISTICS_DDP_PLAN.pdf",
+    "category": "Logistics",
+    "status": "verified",
+    "lastUpdated": "2026-08-22",
+    "sizeKb": 1100
+  },
+  {
+    "id": "doc-sop-deploy",
+    "docCode": "DOC-OPS-10",
+    "title": {
+      "en": "Turnkey Field Deployment & Staging SOP",
+      "ar": "إجراءات التشغيل القياسية للتهيئة والتركيب الميداني"
+    },
+    "filename": "SYNTH_FIELD_DEPLOYMENT_SOP.pdf",
+    "category": "Operations",
+    "status": "verified",
+    "lastUpdated": "2026-08-20",
+    "sizeKb": 1620
+  },
+  {
+    "id": "doc-debarment-form",
+    "docCode": "DOC-ADM-11",
+    "title": {
+      "en": "Notarized Integrity & Non-Debarment Form",
+      "ar": "إقرار النزاهة وعدم الحرمان الموثق"
+    },
+    "filename": "SYNTH_INTEGRITY_DECLARATION.pdf",
+    "category": "Administrative",
+    "status": "verified",
+    "lastUpdated": "2026-08-14",
+    "sizeKb": 430
+  },
+  {
+    "id": "doc-financial-offer",
+    "docCode": "DOC-FIN-12",
+    "title": {
+      "en": "Fixed Commercial Offer & Validity Commitment",
+      "ar": "العرض التجاري الثابت وتعهد فترة الصلاحية"
+    },
+    "filename": "SYNTH_FINANCIAL_OFFER_B.pdf",
+    "category": "Commercial",
+    "status": "verified",
+    "lastUpdated": "2026-08-23",
+    "sizeKb": 890
+  },
+  {
+    "id": "doc-sla-policy",
+    "docCode": "DOC-WAR-13",
+    "title": {
+      "en": "24/7 SLA Helpdesk & Spare Buffer Policy",
+      "ar": "سياسة مكتب المساعدة ومخزون قطع الغيار"
+    },
+    "filename": "SYNTH_SLA_POLICY_DOC.pdf",
+    "category": "Warranty",
+    "status": "verified",
+    "lastUpdated": "2026-08-16",
+    "sizeKb": 760
+  },
+  {
+    "id": "doc-submission-checklist",
+    "docCode": "DOC-SUB-14",
+    "title": {
+      "en": "Two-Envelope Digital Submission Manifest",
+      "ar": "بيان مطابقة التقديم الرقمي في مظروفين"
+    },
+    "filename": "SYNTH_SUBMISSION_MANIFEST.pdf",
+    "category": "Submission",
+    "status": "verified",
+    "lastUpdated": "2026-08-23",
+    "sizeKb": 540
+  }
+]

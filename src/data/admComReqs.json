@@ -1,0 +1,194 @@
+[
+  {
+    "id": "req-adm-01",
+    "ref": "ADM-01",
+    "section": "Section 1.4",
+    "title": {
+      "en": "Valid Commercial Registration & Chamber of Commerce License",
+      "ar": "سجل تجاري ساري ورخصة الغرفة التجارية"
+    },
+    "description": {
+      "en": "Active trade license and chamber membership valid through contract period.",
+      "ar": "سجل تجاري ساري وعضوية الغرفة التجارية سارية طوال فترة تنفيذ العقد."
+    },
+    "category": "administrative",
+    "isMandatory": true,
+    "weight": 5,
+    "state": "comply",
+    "proposedResponse": {
+      "en": "Registered Libyan LLC with valid Chamber of Commerce license through Dec 2027.",
+      "ar": "شركة ليبية ذات مسؤولية محدودة مسجلة مع ترخيص غرفة التجارة سارٍ حتى ديسمبر 2027."
+    },
+    "evidenceId": "doc-legal-registry",
+    "owner": "Legal Officer",
+    "reviewerNotes": "Document verified and certified."
+  },
+  {
+    "id": "req-adm-02",
+    "ref": "ADM-02",
+    "section": "Section 1.6",
+    "title": {
+      "en": "Valid Fiscal Tax Clearance Certificate",
+      "ar": "شهادة إبراء ذمة ضريبية سارية"
+    },
+    "description": {
+      "en": "Official tax clearance certificate issued within 90 days prior to bid submission.",
+      "ar": "شهادة إبراء ذمة ضريبية رسمية صادرة خلال 90 يوماً قبل موعد التقديم."
+    },
+    "category": "administrative",
+    "isMandatory": true,
+    "weight": 5,
+    "state": "comply",
+    "proposedResponse": {
+      "en": "Current Tax Clearance Certificate issued on 10 Aug 2026 attached in Envelope A.",
+      "ar": "شهادة إبراء الذمة الضريبية الصادرة بتاريخ 10 أغسطس 2026 مرفقة بالظرف أ."
+    },
+    "evidenceId": "doc-tax-clearance",
+    "owner": "Finance Manager",
+    "reviewerNotes": "Valid through Nov 2026."
+  },
+  {
+    "id": "req-adm-03",
+    "ref": "ADM-03",
+    "section": "Section 1.8",
+    "title": {
+      "en": "ISO 9001 and ISO 27001 Certified Supplier Operations",
+      "ar": "شهادات الآيزو 9001 لإدارة الجودة و27001 لأمن المعلومات"
+    },
+    "description": {
+      "en": "Supplier must hold accredited ISO 9001 (Quality) and ISO 27001 (Security) certifications.",
+      "ar": "يجب أن يحمل المورد شهادة آيزو 9001 وآيزو 27001 سارية المفعول."
+    },
+    "category": "administrative",
+    "isMandatory": false,
+    "weight": 3,
+    "state": "comply",
+    "proposedResponse": {
+      "en": "Holding active ISO 9001:2015 and ISO 27001:2022 certificates.",
+      "ar": "نحمل شهادات آيزو 9001:2015 وآيزو 27001:2022 سارية وصادرة عن جهة اعتماد دولية."
+    },
+    "evidenceId": "doc-iso-certs",
+    "owner": "Quality Lead",
+    "reviewerNotes": "Certificates verified."
+  },
+  {
+    "id": "req-adm-04",
+    "ref": "ADM-04",
+    "section": "Section 1.9",
+    "title": {
+      "en": "Form of Integrity & Non-Debarment Declaration",
+      "ar": "إقرار النزاهة وعدم الحرمان من المشاركة"
+    },
+    "description": {
+      "en": "Signed declaration confirming supplier is not debarred by UN or World Bank.",
+      "ar": "إقرار موقع يؤكد عدم إدراج الشركة في قوائم الحظر لدى الأمم المتحدة أو البنك الدولي."
+    },
+    "category": "administrative",
+    "isMandatory": true,
+    "weight": 4,
+    "state": "comply",
+    "proposedResponse": {
+      "en": "Signed Declaration of Eligibility and Integrity on official letterhead.",
+      "ar": "إقرار الأهلية والنزاهة موقع على المطبوعات الرسمية بتوقيع المدير العام."
+    },
+    "evidenceId": "doc-debarment-form",
+    "owner": "Legal Officer",
+    "reviewerNotes": "Form completed and signed."
+  },
+  {
+    "id": "req-com-01",
+    "ref": "COM-01",
+    "section": "Section 2.1",
+    "title": {
+      "en": "2% Unconditional Bank Guarantee (Bid Bond)",
+      "ar": "ضمان بنكي غير مشروط لدخول العطاء بنسبة 2%"
+    },
+    "description": {
+      "en": "Original bank guarantee representing 2% of total bid value valid for 120 days.",
+      "ar": "خطاب ضمان بنكي أصلي غير مشروط بنسبة 2% من قيمة العطاء سارٍ لمدة 120 يوماً."
+    },
+    "category": "commercial",
+    "isMandatory": true,
+    "weight": 5,
+    "state": "comply",
+    "proposedResponse": {
+      "en": "Bank guarantee issued through tier-1 local partner bank for USD 10,000.",
+      "ar": "خطاب ضمان صادر عبر بنك محلي معتمد بقيمة 10,000 دولار صالح لمدة 120 يوماً."
+    },
+    "evidenceId": "doc-bid-bond",
+    "owner": "Treasury",
+    "reviewerNotes": "Bank draft confirmed."
+  },
+  {
+    "id": "req-com-02",
+    "ref": "COM-02",
+    "section": "Section 2.3",
+    "title": {
+      "en": "90-Calendar-Day Fixed Price Validity Period",
+      "ar": "فترة صلاحية أسعار ثابتة لمدة 90 يوماً"
+    },
+    "description": {
+      "en": "Prices must remain fixed and irrevocable for 90 days from closing date.",
+      "ar": "يجب أن تظل الأسعار ثابتة وغير قابلة للتغيير لمدة 90 يوماً."
+    },
+    "category": "commercial",
+    "isMandatory": true,
+    "weight": 4,
+    "state": "comply",
+    "proposedResponse": {
+      "en": "Confirmed 90-day price lock supported by back-to-back vendor agreements.",
+      "ar": "تأكيد ثبات الأسعار لمدة 90 يوماً مدعوماً باتفاقيات تثبيت أسعار مع المصنعين."
+    },
+    "evidenceId": "doc-financial-offer",
+    "owner": "Commercial Director",
+    "reviewerNotes": "Vendor agreements in place."
+  },
+  {
+    "id": "req-com-03",
+    "ref": "COM-03",
+    "section": "Section 2.5",
+    "title": {
+      "en": "Milestone Payments: 20% Advance, 50% Delivery, 30% Acceptance",
+      "ar": "دفعات مرحلية: 20% مقدم، 50% عند التسليم، 30% بعد القبول"
+    },
+    "description": {
+      "en": "Standard payment schedule: 20% advance, 50% upon delivery, 30% after SAT signoff.",
+      "ar": "جدول الدفعات: 20% دفعة مقدمة، 50% عند الاستلام الأولي، 30% بعد محضر القبول."
+    },
+    "category": "commercial",
+    "isMandatory": false,
+    "weight": 3,
+    "state": "comply",
+    "proposedResponse": {
+      "en": "Accepting standard payment terms in USD through international wire transfer.",
+      "ar": "قبول شروط الدفع القياسية بالدولار الأمريكي عبر تحويل مصرفي دولي."
+    },
+    "evidenceId": "doc-financial-offer",
+    "owner": "Finance Manager",
+    "reviewerNotes": "Working capital model validated."
+  },
+  {
+    "id": "req-com-04",
+    "ref": "COM-04",
+    "section": "Section 2.7",
+    "title": {
+      "en": "Delay Penalty: 0.5% per week capped at 10% total value",
+      "ar": "غرامة تأخير: 0.5% لكل أسبوع بحد أقصى 10%"
+    },
+    "description": {
+      "en": "Liquidated damages clause of 0.5% per week of unexcused delay up to max 10%.",
+      "ar": "الموافقة على غرامة التأخير 0.5% لكل أسبوع بحد أقصى 10%."
+    },
+    "category": "commercial",
+    "isMandatory": true,
+    "weight": 3,
+    "state": "comply",
+    "proposedResponse": {
+      "en": "Agreed. Supply chain timeline includes a 14-day internal safety buffer.",
+      "ar": "موافق. يتضمن جدول التوريد هامش أمان زمني قدره 14 يوماً."
+    },
+    "evidenceId": "doc-legal-registry",
+    "owner": "Legal Officer",
+    "reviewerNotes": "Buffer verified in schedule."
+  }
+]

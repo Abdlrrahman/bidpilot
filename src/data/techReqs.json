@@ -1,0 +1,146 @@
+[
+  {
+    "id": "req-tech-01",
+    "ref": "TECH-01",
+    "section": "Section 3.1.1",
+    "title": {
+      "en": "Dual-Socket Enterprise Rack Servers (2U)",
+      "ar": "خوادم رفوف مؤسسية مزدوجة المقبس (2U)"
+    },
+    "description": {
+      "en": "Min 2x 32-Core x86-64 CPUs, 256GB DDR5 ECC RAM, redundant Platinum PSUs, NVMe RAID.",
+      "ar": "معالجات مزدوجة 32 نواة وذاكرة 256 جيجابايت ومزودات طاقة مزدوجة ومصفوفة NVMe."
+    },
+    "category": "technical",
+    "isMandatory": true,
+    "weight": 5,
+    "state": "comply",
+    "proposedResponse": {
+      "en": "Supplying Tier-1 2U Servers with dual 32-Core CPUs, 512GB ECC RAM, redundant 1100W PSUs.",
+      "ar": "توريد خوادم رفوف مؤسسية من الفئة الأولى بمعالجات مزدوجة 32 نواة وذاكرة 512 جيجابايت."
+    },
+    "evidenceId": "doc-datasheet-srv",
+    "owner": "Lead Systems Architect",
+    "reviewerNotes": "Verified OEM spec sheet matches all criteria."
+  },
+  {
+    "id": "req-tech-02",
+    "ref": "TECH-02",
+    "section": "Section 3.1.4",
+    "title": {
+      "en": "48-Port Managed Layer-3 PoE+ Switches",
+      "ar": "مبدلات شبكة مدارة من الطبقة الثالثة 48 منفذ PoE+"
+    },
+    "description": {
+      "en": "48x 1GbE PoE+ ports with 740W budget, 4x 10GbE SFP+ uplinks, wire-speed switching.",
+      "ar": "48 منفذ 1GbE PoE+ مع ميزانية 740 واط و4 منافذ صاعدة 10GbE SFP+."
+    },
+    "category": "technical",
+    "isMandatory": true,
+    "weight": 4,
+    "state": "comply",
+    "proposedResponse": {
+      "en": "Compliant with Enterprise L3 Stackable switches with 4x10G SFP+ uplinks.",
+      "ar": "مطابق بالكامل عبر مبدلات قابلة للتكديس من الطبقة الثالثة ومنافذ 10G SFP+."
+    },
+    "evidenceId": "doc-datasheet-net",
+    "owner": "Network Engineer",
+    "reviewerNotes": "Switch throughput verified."
+  },
+  {
+    "id": "req-tech-03",
+    "ref": "TECH-03",
+    "section": "Section 3.2.1",
+    "title": {
+      "en": "Enterprise Business Laptops with Rugged Chassis",
+      "ar": "أجهزة حاسوب محمولة مؤسسية بهيكل معزز"
+    },
+    "description": {
+      "en": "Intel Core i7/Ryzen 7, 32GB DDR5, 1TB NVMe, 14-inch Anti-Glare FHD, MIL-STD-810H, TPM 2.0.",
+      "ar": "معالج Core i7 أو Ryzen 7، ذاكرة 32 جيجابايت، شاشة 14 بوصة، معيار MIL-STD-810H."
+    },
+    "category": "technical",
+    "isMandatory": true,
+    "weight": 4,
+    "state": "comply",
+    "proposedResponse": {
+      "en": "Providing Enterprise 14-inch notebooks meeting MIL-STD-810H with biometric login & TPM 2.0.",
+      "ar": "توفير أجهزة أعمال 14 بوصة مطابقة لمعيار التحمل العسكري مع بصمة وشريحة TPM 2.0."
+    },
+    "evidenceId": "doc-datasheet-laptop",
+    "owner": "Procurement Specialist",
+    "reviewerNotes": "Meets and exceeds RAM requirement."
+  },
+  {
+    "id": "req-tech-04",
+    "ref": "TECH-04",
+    "section": "Section 3.3.2",
+    "title": {
+      "en": "Online Double-Conversion 6kVA Rack UPS with SNMP",
+      "ar": "وحدة تغذية طاقة غير منقطعة مزدوجة التحويل 6kVA مع SNMP"
+    },
+    "description": {
+      "en": "6kVA/6kW unity power factor UPS, external battery pack support for 30-min runtime at 75% load.",
+      "ar": "مزود طاقة 6kVA/6kW يدعم بطاريات إضافية لتشغيل 30 دقيقة عند حمل 75%."
+    },
+    "category": "technical",
+    "isMandatory": false,
+    "weight": 3,
+    "state": "partial",
+    "proposedResponse": {
+      "en": "Supplying 6kVA UPS with 22-min backup. Proposing extended battery module (EBM) option for 35 mins.",
+      "ar": "توفير مزود طاقة 6kVA بوقت 22 دقيقة مع خيار بطارية إضافية للوصول إلى 35 دقيقة."
+    },
+    "evidenceId": "doc-datasheet-ups",
+    "owner": "Electrical Engineer",
+    "reviewerNotes": "Baseline run time is 22 mins; EBM in pricing."
+  },
+  {
+    "id": "req-tech-05",
+    "ref": "TECH-05",
+    "section": "Section 3.4.1",
+    "title": {
+      "en": "On-site Turnkey Deployment & Configuration",
+      "ar": "التركيب والتهيئة الميدانية المتكاملة بالمواقع"
+    },
+    "description": {
+      "en": "Physical rack mounting, structured cabling, VLAN segmentation, OS hardening, FAT/SAT acceptance.",
+      "ar": "تركيب الأجهزة، وتوصيل الكوابل، وعزل شبكات VLAN، وتأمين الأنظمة وفحص الاستلام."
+    },
+    "category": "technical",
+    "isMandatory": true,
+    "weight": 5,
+    "state": "comply",
+    "proposedResponse": {
+      "en": "Certified deployment team on-site in Tripoli and Benghazi with full FAT/SAT protocols.",
+      "ar": "فريق فني معتمد للتنفيذ الميداني في طرابلس وبنغازي وفق بروتوكولات القبول."
+    },
+    "evidenceId": "doc-sop-deploy",
+    "owner": "Services Delivery Manager",
+    "reviewerNotes": "Field engineering confirmed."
+  },
+  {
+    "id": "req-tech-06",
+    "ref": "TECH-06",
+    "section": "Section 3.5.3",
+    "title": {
+      "en": "Operational Range up to 45°C Ambient with Dust Filters",
+      "ar": "التشغيل في درجات حرارة حتى 45 مئوية مع فلاتر غبار"
+    },
+    "description": {
+      "en": "Reliable operation under unconditioned ambient temperatures up to 45°C with IP5X filter enclosures.",
+      "ar": "العمل بكفاءة حتى 45 درجة مئوية مع أغطية تصفية غبار بمعيار IP5X."
+    },
+    "category": "technical",
+    "isMandatory": false,
+    "weight": 2,
+    "state": "comply",
+    "proposedResponse": {
+      "en": "Supplied rack cabinets include custom IP52 washable particulate filter kits & fan trays.",
+      "ar": "تشمل جميع كبائن الرفوف حزم فلاتر قابلة للغسيل بمعيار IP52 ومراوح شفط."
+    },
+    "evidenceId": "doc-datasheet-rack",
+    "owner": "Lead Systems Architect",
+    "reviewerNotes": "Filter specs verified."
+  }
+]

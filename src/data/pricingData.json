@@ -1,0 +1,365 @@
+{
+  "target": [
+    {
+      "id": "item-01",
+      "itemCode": "SRV-R750-2U",
+      "description": {
+        "en": "Dual 32-Core 2U Enterprise Rack Server, 512GB RAM",
+        "ar": "خادم رفوف مؤسسي 2U بمعالجين 32 نواة وذاكرة 512 جيجابايت"
+      },
+      "category": "Hardware",
+      "quantity": 12,
+      "unit": "Units",
+      "unitCost": 11200,
+      "logisticsPerUnit": 450,
+      "contingencyRate": 0.04,
+      "overheadRate": 0.07,
+      "markupRate": 0.16,
+      "discountRate": 0
+    },
+    {
+      "id": "item-02",
+      "itemCode": "SW-L3-48P-POE",
+      "description": {
+        "en": "Enterprise 48-Port GbE PoE+ L3 Switch (4x 10G)",
+        "ar": "مبدل شبكة مؤسسي 48 منفذ PoE+ طبقة 3 مع 4 منافذ 10G"
+      },
+      "category": "Networking",
+      "quantity": 18,
+      "unit": "Units",
+      "unitCost": 2850,
+      "logisticsPerUnit": 120,
+      "contingencyRate": 0.04,
+      "overheadRate": 0.07,
+      "markupRate": 0.16,
+      "discountRate": 0
+    },
+    {
+      "id": "item-03",
+      "itemCode": "LAP-RUG-14",
+      "description": {
+        "en": "14-inch Rugged Business Laptop i7/32GB/1TB",
+        "ar": "حاسوب محمول أعمال 14 بوصة i7/32GB/1TB معيار عسكري"
+      },
+      "category": "Client Devices",
+      "quantity": 60,
+      "unit": "Units",
+      "unitCost": 1350,
+      "logisticsPerUnit": 60,
+      "contingencyRate": 0.03,
+      "overheadRate": 0.06,
+      "markupRate": 0.15,
+      "discountRate": 0
+    },
+    {
+      "id": "item-04",
+      "itemCode": "UPS-6KVA-ONL",
+      "description": {
+        "en": "6kVA/6kW Online Rackmount UPS & SNMP Module",
+        "ar": "مزود طاقة غير منقطع 6kVA بتقنية التحويل المزدوج وبطاقة SNMP"
+      },
+      "category": "Power & Infrastructure",
+      "quantity": 8,
+      "unit": "Units",
+      "unitCost": 3400,
+      "logisticsPerUnit": 250,
+      "contingencyRate": 0.05,
+      "overheadRate": 0.07,
+      "markupRate": 0.16,
+      "discountRate": 0
+    },
+    {
+      "id": "item-05",
+      "itemCode": "RACK-42U-IP52",
+      "description": {
+        "en": "42U Server Rack Enclosure with IP52 Airflow Kit",
+        "ar": "كابينة خوادم 42U مع فلتر غبار IP52 ووحدات توزيع طاقة"
+      },
+      "category": "Power & Infrastructure",
+      "quantity": 8,
+      "unit": "Units",
+      "unitCost": 1750,
+      "logisticsPerUnit": 220,
+      "contingencyRate": 0.04,
+      "overheadRate": 0.06,
+      "markupRate": 0.15,
+      "discountRate": 0
+    },
+    {
+      "id": "item-06",
+      "itemCode": "SVC-DEPLOY-SAT",
+      "description": {
+        "en": "On-site Turnkey Deployment, Staging & SAT Testing",
+        "ar": "خدمات التركيب والتهيئة والفحص الميداني بالمواقع"
+      },
+      "category": "Professional Services",
+      "quantity": 1,
+      "unit": "Lot",
+      "unitCost": 28000,
+      "logisticsPerUnit": 0,
+      "contingencyRate": 0.06,
+      "overheadRate": 0.08,
+      "markupRate": 0.22,
+      "discountRate": 0
+    },
+    {
+      "id": "item-07",
+      "itemCode": "SVC-TRN-40HR",
+      "description": {
+        "en": "40-Hour Certified Administrator Training (Bilingual)",
+        "ar": "دورة تدريبية معتمدة 40 ساعة مع حقائب تدريبية ثنائية اللغة"
+      },
+      "category": "Professional Services",
+      "quantity": 2,
+      "unit": "Cohorts",
+      "unitCost": 6500,
+      "logisticsPerUnit": 0,
+      "contingencyRate": 0.03,
+      "overheadRate": 0.05,
+      "markupRate": 0.2,
+      "discountRate": 0
+    }
+  ],
+  "conservative": [
+    {
+      "id": "item-01",
+      "itemCode": "SRV-R750-2U",
+      "description": {
+        "en": "Dual 32-Core 2U Enterprise Rack Server, 512GB RAM",
+        "ar": "خادم رفوف مؤسسي 2U بمعالجين 32 نواة وذاكرة 512 جيجابايت"
+      },
+      "category": "Hardware",
+      "quantity": 12,
+      "unit": "Units",
+      "unitCost": 11400,
+      "logisticsPerUnit": 520,
+      "contingencyRate": 0.08,
+      "overheadRate": 0.09,
+      "markupRate": 0.22,
+      "discountRate": 0
+    },
+    {
+      "id": "item-02",
+      "itemCode": "SW-L3-48P-POE",
+      "description": {
+        "en": "Enterprise 48-Port GbE PoE+ L3 Switch (4x 10G)",
+        "ar": "مبدل شبكة مؤسسي 48 منفذ PoE+ طبقة 3 مع 4 منافذ 10G"
+      },
+      "category": "Networking",
+      "quantity": 18,
+      "unit": "Units",
+      "unitCost": 2900,
+      "logisticsPerUnit": 150,
+      "contingencyRate": 0.07,
+      "overheadRate": 0.09,
+      "markupRate": 0.22,
+      "discountRate": 0
+    },
+    {
+      "id": "item-03",
+      "itemCode": "LAP-RUG-14",
+      "description": {
+        "en": "14-inch Rugged Business Laptop i7/32GB/1TB",
+        "ar": "حاسوب محمول أعمال 14 بوصة i7/32GB/1TB معيار عسكري"
+      },
+      "category": "Client Devices",
+      "quantity": 60,
+      "unit": "Units",
+      "unitCost": 1380,
+      "logisticsPerUnit": 75,
+      "contingencyRate": 0.06,
+      "overheadRate": 0.08,
+      "markupRate": 0.2,
+      "discountRate": 0
+    },
+    {
+      "id": "item-04",
+      "itemCode": "UPS-6KVA-ONL",
+      "description": {
+        "en": "6kVA/6kW Online Rackmount UPS & SNMP Module",
+        "ar": "مزود طاقة غير منقطع 6kVA بتقنية التحويل المزدوج وبطاقة SNMP"
+      },
+      "category": "Power & Infrastructure",
+      "quantity": 8,
+      "unit": "Units",
+      "unitCost": 3500,
+      "logisticsPerUnit": 300,
+      "contingencyRate": 0.08,
+      "overheadRate": 0.09,
+      "markupRate": 0.22,
+      "discountRate": 0
+    },
+    {
+      "id": "item-05",
+      "itemCode": "RACK-42U-IP52",
+      "description": {
+        "en": "42U Server Rack Enclosure with IP52 Airflow Kit",
+        "ar": "كابينة خوادم 42U مع فلتر غبار IP52 ووحدات توزيع طاقة"
+      },
+      "category": "Power & Infrastructure",
+      "quantity": 8,
+      "unit": "Units",
+      "unitCost": 1800,
+      "logisticsPerUnit": 260,
+      "contingencyRate": 0.07,
+      "overheadRate": 0.08,
+      "markupRate": 0.2,
+      "discountRate": 0
+    },
+    {
+      "id": "item-06",
+      "itemCode": "SVC-DEPLOY-SAT",
+      "description": {
+        "en": "On-site Turnkey Deployment, Staging & SAT Testing",
+        "ar": "خدمات التركيب والتهيئة والفحص الميداني بالمواقع"
+      },
+      "category": "Professional Services",
+      "quantity": 1,
+      "unit": "Lot",
+      "unitCost": 32000,
+      "logisticsPerUnit": 0,
+      "contingencyRate": 0.1,
+      "overheadRate": 0.1,
+      "markupRate": 0.25,
+      "discountRate": 0
+    },
+    {
+      "id": "item-07",
+      "itemCode": "SVC-TRN-40HR",
+      "description": {
+        "en": "40-Hour Certified Administrator Training (Bilingual)",
+        "ar": "دورة تدريبية معتمدة 40 ساعة مع حقائب تدريبية ثنائية اللغة"
+      },
+      "category": "Professional Services",
+      "quantity": 2,
+      "unit": "Cohorts",
+      "unitCost": 7500,
+      "logisticsPerUnit": 0,
+      "contingencyRate": 0.05,
+      "overheadRate": 0.08,
+      "markupRate": 0.25,
+      "discountRate": 0
+    }
+  ],
+  "competitive": [
+    {
+      "id": "item-01",
+      "itemCode": "SRV-R750-2U",
+      "description": {
+        "en": "Dual 32-Core 2U Enterprise Rack Server, 512GB RAM",
+        "ar": "خادم رفوف مؤسسي 2U بمعالجين 32 نواة وذاكرة 512 جيجابايت"
+      },
+      "category": "Hardware",
+      "quantity": 12,
+      "unit": "Units",
+      "unitCost": 11000,
+      "logisticsPerUnit": 380,
+      "contingencyRate": 0.02,
+      "overheadRate": 0.05,
+      "markupRate": 0.11,
+      "discountRate": 0.02
+    },
+    {
+      "id": "item-02",
+      "itemCode": "SW-L3-48P-POE",
+      "description": {
+        "en": "Enterprise 48-Port GbE PoE+ L3 Switch (4x 10G)",
+        "ar": "مبدل شبكة مؤسسي 48 منفذ PoE+ طبقة 3 مع 4 منافذ 10G"
+      },
+      "category": "Networking",
+      "quantity": 18,
+      "unit": "Units",
+      "unitCost": 2800,
+      "logisticsPerUnit": 90,
+      "contingencyRate": 0.02,
+      "overheadRate": 0.05,
+      "markupRate": 0.11,
+      "discountRate": 0.02
+    },
+    {
+      "id": "item-03",
+      "itemCode": "LAP-RUG-14",
+      "description": {
+        "en": "14-inch Rugged Business Laptop i7/32GB/1TB",
+        "ar": "حاسوب محمول أعمال 14 بوصة i7/32GB/1TB معيار عسكري"
+      },
+      "category": "Client Devices",
+      "quantity": 60,
+      "unit": "Units",
+      "unitCost": 1320,
+      "logisticsPerUnit": 45,
+      "contingencyRate": 0.02,
+      "overheadRate": 0.04,
+      "markupRate": 0.1,
+      "discountRate": 0.02
+    },
+    {
+      "id": "item-04",
+      "itemCode": "UPS-6KVA-ONL",
+      "description": {
+        "en": "6kVA/6kW Online Rackmount UPS & SNMP Module",
+        "ar": "مزود طاقة غير منقطع 6kVA بتقنية التحويل المزدوج وبطاقة SNMP"
+      },
+      "category": "Power & Infrastructure",
+      "quantity": 8,
+      "unit": "Units",
+      "unitCost": 3300,
+      "logisticsPerUnit": 200,
+      "contingencyRate": 0.03,
+      "overheadRate": 0.05,
+      "markupRate": 0.11,
+      "discountRate": 0
+    },
+    {
+      "id": "item-05",
+      "itemCode": "RACK-42U-IP52",
+      "description": {
+        "en": "42U Server Rack Enclosure with IP52 Airflow Kit",
+        "ar": "كابينة خوادم 42U مع فلتر غبار IP52 ووحدات توزيع طاقة"
+      },
+      "category": "Power & Infrastructure",
+      "quantity": 8,
+      "unit": "Units",
+      "unitCost": 1700,
+      "logisticsPerUnit": 180,
+      "contingencyRate": 0.02,
+      "overheadRate": 0.04,
+      "markupRate": 0.1,
+      "discountRate": 0
+    },
+    {
+      "id": "item-06",
+      "itemCode": "SVC-DEPLOY-SAT",
+      "description": {
+        "en": "On-site Turnkey Deployment, Staging & SAT Testing",
+        "ar": "خدمات التركيب والتهيئة والفحص الميداني بالمواقع"
+      },
+      "category": "Professional Services",
+      "quantity": 1,
+      "unit": "Lot",
+      "unitCost": 25000,
+      "logisticsPerUnit": 0,
+      "contingencyRate": 0.04,
+      "overheadRate": 0.06,
+      "markupRate": 0.15,
+      "discountRate": 0
+    },
+    {
+      "id": "item-07",
+      "itemCode": "SVC-TRN-40HR",
+      "description": {
+        "en": "40-Hour Certified Administrator Training (Bilingual)",
+        "ar": "دورة تدريبية معتمدة 40 ساعة مع حقائب تدريبية ثنائية اللغة"
+      },
+      "category": "Professional Services",
+      "quantity": 2,
+      "unit": "Cohorts",
+      "unitCost": 5800,
+      "logisticsPerUnit": 0,
+      "contingencyRate": 0.02,
+      "overheadRate": 0.04,
+      "markupRate": 0.14,
+      "discountRate": 0
+    }
+  ]
+}
