@@ -1,1 +1,1 @@
-[2025-09-04 13:07:24 +02:00] fix(currency): correct margin erosion floor trigger in low-margin bids with graceful offline fallback
+[2025-09-04 15:10:40 +02:00] fix(theme): fix PDF pagination break inside cost breakdown tables adhering to Level-4 sovereign stack standards
