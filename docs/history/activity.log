@@ -1,1 +1,1 @@
-[2025-09-05 16:35:34 +02:00] refactor(nash-eq): streamline internal state transitions in nash-eq controller with error boundary safeguards
+[2025-09-05 18:04:34 +02:00] feat(subcontractor): subcontractor markup and contingency risk buffer calculator with strict TypeScript type-checking
