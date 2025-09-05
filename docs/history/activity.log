@@ -1,1 +1,1 @@
-[2025-09-05 15:05:48 +02:00] perf(compliance): vectorize 1,000-trial Monte Carlo pricing loop with typed Float64Arrays and add integration assertions
+[2025-09-05 16:35:34 +02:00] refactor(nash-eq): streamline internal state transitions in nash-eq controller with error boundary safeguards
