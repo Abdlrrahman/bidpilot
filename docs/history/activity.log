@@ -1,1 +1,1 @@
-[2025-09-05 19:34:19 +02:00] feat(auction): live audit trail with SHA-256 integrity hash verification and add integration assertions
+[2025-09-08 11:08:12 +02:00] feat(perf): 5-round descending clock reverse auction simulation modal
