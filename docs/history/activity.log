@@ -1,1 +1,1 @@
-[2025-09-08 14:30:41 +02:00] feat(competitor): hierarchical bill of materials (BOM) cost breakdown structure with sub-millisecond execution latency
+[2025-09-08 16:12:13 +02:00] fix(scoring): fix PDF pagination break inside cost breakdown tables
