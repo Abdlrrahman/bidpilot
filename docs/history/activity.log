@@ -1,1 +1,1 @@
-[2025-09-30 12:21:42 +02:00] test(margin): add edge-case regression specs for margin inputs with sub-millisecond execution latency
+[2025-09-30 13:50:24 +02:00] fix(margin): prevent negative contingency risk buffer on extreme discount inputs with graceful offline fallback
