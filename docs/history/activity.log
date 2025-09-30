@@ -1,1 +1,1 @@
-[2025-09-30 10:52:47 +02:00] refactor(margin): modernize margin component hierarchy with zero regression across all deployment profiles
+[2025-09-30 12:21:42 +02:00] test(margin): add edge-case regression specs for margin inputs with sub-millisecond execution latency
