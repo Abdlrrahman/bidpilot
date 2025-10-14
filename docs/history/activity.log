@@ -1,1 +1,1 @@
-[2025-10-09 19:24:22 +02:00] fix(dossier): prevent negative contingency risk buffer on extreme discount inputs and verify mathematical invariance
+[2025-10-14 11:09:51 +02:00] feat(auction): competitor aggression parameter tuning with historical win curves and add integration assertions
