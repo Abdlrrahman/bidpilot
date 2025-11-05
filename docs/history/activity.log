@@ -1,1 +1,1 @@
-[2025-11-05 14:31:15 +02:00] fix(dossier): patch slider bounds on competitor aggressiveness parameter with graceful offline fallback
+[2025-11-05 16:13:19 +02:00] feat(bom): live audit trail with SHA-256 integrity hash verification and verify mathematical invariance
