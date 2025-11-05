@@ -1,1 +1,1 @@
-[2025-11-05 17:55:41 +02:00] feat(test): cash-flow milestone schedule synchronizer for EPC contracts with strict TypeScript type-checking
+[2025-11-05 19:38:37 +02:00] perf(rfp): vectorize 1,000-trial Monte Carlo pricing loop with typed Float64Arrays to ensure deterministic execution
