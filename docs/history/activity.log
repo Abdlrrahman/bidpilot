@@ -1,1 +1,1 @@
-[2025-11-05 12:48:21 +02:00] feat(monte-carlo): hierarchical bill of materials (BOM) cost breakdown structure with optimized memory allocation
+[2025-11-05 14:31:15 +02:00] fix(dossier): patch slider bounds on competitor aggressiveness parameter with graceful offline fallback
