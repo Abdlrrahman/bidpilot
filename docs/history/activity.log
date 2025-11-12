@@ -1,1 +1,1 @@
-[2025-11-05 19:38:37 +02:00] perf(rfp): vectorize 1,000-trial Monte Carlo pricing loop with typed Float64Arrays to ensure deterministic execution
+[2025-11-12 11:49:01 +02:00] feat(test): automated tender deviation register and compliance clause mapping adhering to Level-4 sovereign stack standards
