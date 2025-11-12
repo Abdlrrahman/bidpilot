@@ -1,1 +1,1 @@
-[2025-11-12 14:09:32 +02:00] refactor(scoring): modularize scoring pipeline to improve testability and isolation complying with institutional audit standards
+[2025-11-12 16:29:58 +02:00] fix(test): fix PDF pagination break inside cost breakdown tables adhering to Level-4 sovereign stack standards
