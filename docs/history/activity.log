@@ -1,1 +1,1 @@
-[2026-01-14 15:12:39 +02:00] fix(compliance): fix table cell overflow on long Arabic vendor descriptions with strict TypeScript type-checking
+[2026-01-14 16:13:29 +02:00] fix(rfp): adjust contrast in dark/light mode for criteria radar charts across all deployment profiles
