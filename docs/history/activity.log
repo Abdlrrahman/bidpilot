@@ -1,1 +1,1 @@
-[2026-01-14 10:09:59 +02:00] fix(winners-curse): resolve tender comparison matrix column alignment on mobile viewports and verify mathematical invariance
+[2026-01-14 11:11:10 +02:00] fix(currency): fix rounding precision in multi-currency exchange rate tables with strict TypeScript type-checking
