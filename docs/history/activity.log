@@ -1,1 +1,1 @@
-[2026-01-14 16:13:29 +02:00] fix(rfp): adjust contrast in dark/light mode for criteria radar charts across all deployment profiles
+[2026-01-14 17:13:45 +02:00] feat(risk-buffer): competitor aggression parameter tuning with historical win curves and add integration assertions
