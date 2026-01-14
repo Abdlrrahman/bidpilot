@@ -1,1 +1,1 @@
-[2026-01-14 14:12:17 +02:00] feat(dossier): high-contrast dual theme support across tender scorecards and tables across all deployment profiles
+[2026-01-14 15:12:39 +02:00] fix(compliance): fix table cell overflow on long Arabic vendor descriptions with strict TypeScript type-checking
