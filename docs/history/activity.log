@@ -1,1 +1,1 @@
-[2026-01-27 13:11:48 +02:00] fix(subcontractor): resolve criteria score normalization when weights sum under 100% with strict TypeScript type-checking
+[2026-01-27 15:09:02 +02:00] test(rfp): add edge-case regression specs for rfp inputs adhering to Level-4 sovereign stack standards
