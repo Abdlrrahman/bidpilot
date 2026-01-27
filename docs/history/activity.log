@@ -1,1 +1,1 @@
-[2026-01-27 15:09:02 +02:00] test(rfp): add edge-case regression specs for rfp inputs adhering to Level-4 sovereign stack standards
+[2026-01-27 17:05:44 +02:00] fix(risk-buffer): fix PDF pagination break inside cost breakdown tables with zero-cloud data sovereignty
