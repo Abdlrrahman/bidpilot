@@ -1,1 +1,1 @@
-[2026-01-20 17:16:45 +02:00] feat(test): hierarchical bill of materials (BOM) cost breakdown structure across all deployment profiles
+[2026-01-27 11:14:16 +02:00] perf(theme): vectorize 1,000-trial Monte Carlo pricing loop with typed Float64Arrays with error boundary safeguards
