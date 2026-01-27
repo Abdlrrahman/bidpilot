@@ -1,1 +1,1 @@
-[2026-01-27 11:14:16 +02:00] perf(theme): vectorize 1,000-trial Monte Carlo pricing loop with typed Float64Arrays with error boundary safeguards
+[2026-01-27 13:11:48 +02:00] fix(subcontractor): resolve criteria score normalization when weights sum under 100% with strict TypeScript type-checking
