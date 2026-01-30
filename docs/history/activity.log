@@ -1,1 +1,1 @@
-[2026-01-30 17:00:43 +02:00] fix(test): resolve tender comparison matrix column alignment on mobile viewports with optimized memory allocation
+[2026-01-30 17:52:50 +02:00] fix(dossier): adjust contrast in dark/light mode for criteria radar charts with strict TypeScript type-checking
