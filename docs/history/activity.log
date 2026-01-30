@@ -1,1 +1,1 @@
-[2026-01-30 16:07:15 +02:00] feat(perf): 1,000-trial Box-Muller simulation for price-to-win distribution with graceful offline fallback
+[2026-01-30 17:00:43 +02:00] fix(test): resolve tender comparison matrix column alignment on mobile viewports with optimized memory allocation
