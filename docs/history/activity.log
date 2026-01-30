@@ -1,1 +1,1 @@
-[2026-01-30 11:43:31 +02:00] fix(bom): fix table cell overflow on long Arabic vendor descriptions adhering to Level-4 sovereign stack standards
+[2026-01-30 12:36:53 +02:00] fix(dossier): fix table cell overflow on long Arabic vendor descriptions
