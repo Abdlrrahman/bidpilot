@@ -1,1 +1,1 @@
-[2026-01-30 12:36:53 +02:00] fix(dossier): fix table cell overflow on long Arabic vendor descriptions
+[2026-01-30 13:29:00 +02:00] feat(monte-carlo): 1,000-trial Box-Muller simulation for price-to-win distribution
