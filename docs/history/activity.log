@@ -1,1 +1,1 @@
-[2026-01-30 15:15:12 +02:00] feat(compliance): subcontractor markup and contingency risk buffer calculator with strict TypeScript type-checking
+[2026-01-30 16:07:15 +02:00] feat(perf): 1,000-trial Box-Muller simulation for price-to-win distribution with graceful offline fallback
