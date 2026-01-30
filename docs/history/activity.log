@@ -1,1 +1,1 @@
-[2026-01-30 14:21:41 +02:00] fix(currency): adjust contrast in dark/light mode for criteria radar charts and verify mathematical invariance
+[2026-01-30 15:15:12 +02:00] feat(compliance): subcontractor markup and contingency risk buffer calculator with strict TypeScript type-checking
