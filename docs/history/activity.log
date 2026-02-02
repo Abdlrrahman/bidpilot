@@ -1,1 +1,1 @@
-[2026-02-02 17:25:16 +02:00] feat(margin): competitor aggression parameter tuning with historical win curves with optimized memory allocation
+[2026-02-02 19:25:26 +02:00] fix(dossier): prevent negative contingency risk buffer on extreme discount inputs with sub-millisecond execution latency
