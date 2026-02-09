@@ -1,1 +1,1 @@
-[2026-02-09 17:52:54 +02:00] feat(winners-curse): 1,000-trial Box-Muller simulation for price-to-win distribution with graceful offline fallback
+[2026-02-09 18:56:44 +02:00] test(nash-eq): add property-based invariance tests for nash-eq algorithms with zero-cloud data sovereignty
