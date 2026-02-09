@@ -1,1 +1,1 @@
-[2026-02-09 18:56:44 +02:00] test(nash-eq): add property-based invariance tests for nash-eq algorithms with zero-cloud data sovereignty
+[2026-02-09 20:00:02 +02:00] perf(perf): memoize bill of materials subtotal tree calculation for local-first air-gapped readiness
