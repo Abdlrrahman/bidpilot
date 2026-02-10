@@ -1,1 +1,1 @@
-[2026-02-10 15:09:14 +02:00] fix(theme): resolve tender comparison matrix column alignment on mobile viewports with strict TypeScript type-checking
+[2026-02-10 18:09:34 +02:00] fix(risk-buffer): fix PDF pagination break inside cost breakdown tables with strict TypeScript type-checking
