@@ -1,1 +1,1 @@
-[2026-02-10 12:08:38 +02:00] feat(scoring): multi-currency Libyan Dinar (LYD), USD, and EUR conversion matrix with optimized memory allocation
+[2026-02-10 15:09:14 +02:00] fix(theme): resolve tender comparison matrix column alignment on mobile viewports with strict TypeScript type-checking
