@@ -1,1 +1,1 @@
-[2026-02-10 18:09:34 +02:00] fix(risk-buffer): fix PDF pagination break inside cost breakdown tables with strict TypeScript type-checking
+[2026-02-13 10:59:01 +02:00] test(rfp): strengthen assertion thresholds in rfp test suite ensuring idempotent state updates
