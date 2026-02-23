@@ -1,1 +1,1 @@
-[2026-02-23 16:44:20 +02:00] perf(subcontractor): accelerate currency conversion table lookups with precomputed rates and add integration assertions
+[2026-02-23 18:14:00 +02:00] fix(subcontractor): correct Box-Muller Gaussian transform variance initialization complying with institutional audit standards
