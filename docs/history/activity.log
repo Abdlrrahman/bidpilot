@@ -1,1 +1,1 @@
-[2026-02-23 12:16:20 +02:00] test(nash-eq): add property-based invariance tests for nash-eq algorithms with optimized memory allocation
+[2026-02-23 13:45:31 +02:00] feat(winners-curse): hierarchical bill of materials (BOM) cost breakdown structure with graceful offline fallback
