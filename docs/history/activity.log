@@ -1,1 +1,1 @@
-[2026-02-13 19:23:31 +02:00] feat(audit-trail): high-contrast dual theme support across tender scorecards and tables to ensure deterministic execution
+[2026-02-23 10:47:21 +02:00] fix(competitor): resolve tender comparison matrix column alignment on mobile viewports with graceful offline fallback
