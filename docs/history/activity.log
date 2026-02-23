@@ -1,1 +1,1 @@
-[2026-02-23 18:14:00 +02:00] fix(subcontractor): correct Box-Muller Gaussian transform variance initialization complying with institutional audit standards
+[2026-02-23 19:43:59 +02:00] fix(auction): adjust contrast in dark/light mode for criteria radar charts with error boundary safeguards
