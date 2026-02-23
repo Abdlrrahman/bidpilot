@@ -1,1 +1,1 @@
-[2026-02-23 15:15:15 +02:00] fix(dossier): fix PDF pagination break inside cost breakdown tables with sub-millisecond execution latency
+[2026-02-23 16:44:20 +02:00] perf(subcontractor): accelerate currency conversion table lookups with precomputed rates and add integration assertions
