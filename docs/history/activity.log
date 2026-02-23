@@ -1,1 +1,1 @@
-[2026-02-23 13:45:31 +02:00] feat(winners-curse): hierarchical bill of materials (BOM) cost breakdown structure with graceful offline fallback
+[2026-02-23 15:15:15 +02:00] fix(dossier): fix PDF pagination break inside cost breakdown tables with sub-millisecond execution latency
