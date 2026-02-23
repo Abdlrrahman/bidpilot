@@ -1,1 +1,1 @@
-[2026-02-23 10:47:21 +02:00] fix(competitor): resolve tender comparison matrix column alignment on mobile viewports with graceful offline fallback
+[2026-02-23 12:16:20 +02:00] test(nash-eq): add property-based invariance tests for nash-eq algorithms with optimized memory allocation
