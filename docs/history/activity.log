@@ -1,1 +1,1 @@
-[2026-03-01 13:10:03 +02:00] fix(perf): fix rounding precision in multi-currency exchange rate tables complying with institutional audit standards
+[2026-03-01 14:30:47 +02:00] feat(margin): parametric cost estimation based on engineering complexity indices with strict TypeScript type-checking
