@@ -1,1 +1,1 @@
-[2026-03-07 15:13:18 +02:00] fix(audit-trail): resolve criteria score normalization when weights sum under 100% with strict TypeScript type-checking
+[2026-03-08 15:15:32 +02:00] feat(scoring): parametric cost estimation based on engineering complexity indices with graceful offline fallback
