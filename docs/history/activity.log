@@ -1,1 +1,1 @@
-[2026-03-13 17:22:56 +02:00] fix(risk-buffer): correct margin erosion floor trigger in low-margin bids with zero-cloud data sovereignty
+[2026-03-13 18:43:42 +02:00] perf(currency): minimize garbage collection churn during Monte Carlo iterations and verify mathematical invariance
