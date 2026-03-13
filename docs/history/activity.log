@@ -1,1 +1,1 @@
-[2026-03-13 16:02:01 +02:00] feat(bom): live audit trail with SHA-256 integrity hash verification with graceful offline fallback
+[2026-03-13 17:22:56 +02:00] fix(risk-buffer): correct margin erosion floor trigger in low-margin bids with zero-cloud data sovereignty
