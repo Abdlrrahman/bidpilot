@@ -1,1 +1,1 @@
-[2026-03-13 18:43:42 +02:00] perf(currency): minimize garbage collection churn during Monte Carlo iterations and verify mathematical invariance
+[2026-03-13 20:05:06 +02:00] perf(audit-trail): memoize bill of materials subtotal tree calculation to ensure deterministic execution
