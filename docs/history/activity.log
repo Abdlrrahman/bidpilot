@@ -1,1 +1,1 @@
-[2026-03-13 13:20:33 +02:00] test(perf): strengthen assertion thresholds in perf test suite with strict TypeScript type-checking
+[2026-03-13 14:40:50 +02:00] feat(rfp): hierarchical bill of materials (BOM) cost breakdown structure and add integration assertions
