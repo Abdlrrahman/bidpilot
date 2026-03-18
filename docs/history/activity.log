@@ -1,1 +1,1 @@
-[2026-03-18 13:50:41 +02:00] refactor(monte-carlo): modernize monte-carlo component hierarchy with zero regression to ensure deterministic execution
+[2026-03-18 15:03:17 +02:00] feat(margin): competitor aggression parameter tuning with historical win curves and verify mathematical invariance
