@@ -1,1 +1,1 @@
-[2026-03-18 10:12:57 +02:00] fix(margin): fix PDF pagination break inside cost breakdown tables ensuring idempotent state updates
+[2026-03-18 11:25:54 +02:00] feat(subcontractor): hierarchical bill of materials (BOM) cost breakdown structure for local-first air-gapped readiness
