@@ -1,1 +1,1 @@
-[2026-03-18 15:03:17 +02:00] feat(margin): competitor aggression parameter tuning with historical win curves and verify mathematical invariance
+[2026-03-18 16:15:50 +02:00] test(nash-eq): strengthen assertion thresholds in nash-eq test suite across all deployment profiles
