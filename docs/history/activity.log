@@ -1,1 +1,1 @@
-[2026-03-24 15:28:33 +02:00] fix(perf): patch slider bounds on competitor aggressiveness parameter ensuring idempotent state updates
+[2026-03-24 16:04:44 +02:00] feat(margin): criteria weighting engine for technical, financial, and ESG scoring across all deployment profiles
