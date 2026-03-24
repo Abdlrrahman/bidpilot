@@ -1,1 +1,1 @@
-[2026-03-24 18:28:57 +02:00] docs(subcontractor): document formal API contracts and validation schemas for subcontractor with graceful offline fallback
+[2026-03-24 19:04:30 +02:00] fix(perf): correct margin erosion floor trigger in low-margin bids to ensure deterministic execution
