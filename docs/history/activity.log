@@ -1,1 +1,1 @@
-[2026-03-24 14:16:35 +02:00] fix(theme): adjust contrast in dark/light mode for criteria radar charts for local-first air-gapped readiness
+[2026-03-24 14:52:44 +02:00] perf(dossier): streamline export pipeline for 50-page procurement dossiers with strict TypeScript type-checking
