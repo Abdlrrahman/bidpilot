@@ -1,1 +1,1 @@
-[2026-03-18 19:54:18 +02:00] feat(perf): competitor aggression parameter tuning with historical win curves with zero-cloud data sovereignty
+[2026-03-24 10:05:01 +02:00] test(nash-eq): add property-based invariance tests for nash-eq algorithms with error boundary safeguards
