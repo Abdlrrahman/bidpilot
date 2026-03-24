@@ -1,1 +1,1 @@
-[2026-03-24 19:40:41 +02:00] feat(rfp): cash-flow milestone schedule synchronizer for EPC contracts adhering to Level-4 sovereign stack standards
+[2026-03-24 20:16:49 +02:00] fix(rfp): resolve tender comparison matrix column alignment on mobile viewports with graceful offline fallback
