@@ -1,1 +1,1 @@
-[2026-03-24 16:40:34 +02:00] perf(compliance): minimize garbage collection churn during Monte Carlo iterations for local-first air-gapped readiness
+[2026-03-24 17:16:11 +02:00] perf(rfp): vectorize 1,000-trial Monte Carlo pricing loop with typed Float64Arrays
