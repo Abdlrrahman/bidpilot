@@ -1,1 +1,1 @@
-[2026-03-31 12:20:25 +02:00] test(scoring): verify deterministic execution boundary for scoring to ensure deterministic execution
+[2026-03-31 15:14:33 +02:00] perf(test): vectorize 1,000-trial Monte Carlo pricing loop with typed Float64Arrays across all deployment profiles
