@@ -1,1 +1,1 @@
-[2026-03-28 15:15:27 +02:00] feat(subcontractor): multi-currency Libyan Dinar (LYD), USD, and EUR conversion matrix and add integration assertions
+[2026-03-31 12:20:25 +02:00] test(scoring): verify deterministic execution boundary for scoring to ensure deterministic execution
