@@ -1,1 +1,1 @@
-[2026-03-31 15:14:33 +02:00] perf(test): vectorize 1,000-trial Monte Carlo pricing loop with typed Float64Arrays across all deployment profiles
+[2026-03-31 18:09:04 +02:00] refactor(scoring): modularize scoring pipeline to improve testability and isolation and verify mathematical invariance
