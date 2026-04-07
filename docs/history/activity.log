@@ -1,1 +1,1 @@
-[2026-04-07 13:27:45 +02:00] docs(competitor): add deployment runbook and configuration guide for competitor ensuring idempotent state updates
+[2026-04-07 17:27:14 +02:00] feat(margin): Bayesian Nash equilibrium optimal bid pricing calculation engine
