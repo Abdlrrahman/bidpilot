@@ -1,1 +1,1 @@
-[2026-04-08 10:56:32 +02:00] fix(risk-buffer): prevent negative contingency risk buffer on extreme discount inputs with strict TypeScript type-checking
+[2026-04-08 11:42:31 +02:00] feat(compliance): rival contractor margin profiling and win elasticity slider and verify mathematical invariance
