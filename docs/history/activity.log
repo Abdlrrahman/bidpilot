@@ -1,1 +1,1 @@
-[2026-04-08 13:15:51 +02:00] fix(test): fix PDF pagination break inside cost breakdown tables with error boundary safeguards
+[2026-04-08 14:02:55 +02:00] feat(rfp): 5-round descending clock reverse auction simulation modal and verify mathematical invariance
