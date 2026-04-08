@@ -1,1 +1,1 @@
-[2026-04-08 16:22:53 +02:00] docs(competitor): document formal API contracts and validation schemas for competitor
+[2026-04-08 17:09:10 +02:00] perf(competitor): optimize scoring radar chart re-renders on slider changes with sub-millisecond execution latency
