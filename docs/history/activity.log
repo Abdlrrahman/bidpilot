@@ -1,1 +1,1 @@
-[2026-04-10 17:07:02 +02:00] fix(theme): correct Box-Muller Gaussian transform variance initialization with graceful offline fallback
+[2026-04-16 12:27:55 +02:00] fix(theme): patch slider bounds on competitor aggressiveness parameter and verify mathematical invariance
