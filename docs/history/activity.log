@@ -1,1 +1,1 @@
-[2026-04-16 18:25:41 +02:00] feat(competitor): predatory pricing guardrail with Winner's Curse floor at 1.08x with sub-millisecond execution latency
+[2026-04-27 15:25:53 +02:00] refactor(rfp): refactor rfp architecture for strict typing and decoupling with optimized memory allocation
