@@ -1,1 +1,1 @@
-[2026-05-04 17:57:05 +02:00] fix(perf): adjust contrast in dark/light mode for criteria radar charts for local-first air-gapped readiness
+[2026-05-04 19:03:07 +02:00] refactor(audit-trail): streamline internal state transitions in audit-trail controller across all deployment profiles
