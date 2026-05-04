@@ -1,1 +1,1 @@
-[2026-05-04 14:38:38 +02:00] feat(compliance): multi-currency Libyan Dinar (LYD), USD, and EUR conversion matrix ensuring idempotent state updates
+[2026-05-04 15:44:56 +02:00] test(compliance): add edge-case regression specs for compliance inputs with graceful offline fallback
