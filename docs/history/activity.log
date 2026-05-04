@@ -1,1 +1,1 @@
-[2026-05-04 11:19:35 +02:00] fix(theme): adjust contrast in dark/light mode for criteria radar charts ensuring idempotent state updates
+[2026-05-04 12:26:06 +02:00] perf(scoring): minimize garbage collection churn during Monte Carlo iterations across all deployment profiles
