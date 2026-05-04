@@ -1,1 +1,1 @@
-[2026-05-04 15:44:56 +02:00] test(compliance): add edge-case regression specs for compliance inputs with graceful offline fallback
+[2026-05-04 16:50:50 +02:00] fix(margin): fix table cell overflow on long Arabic vendor descriptions adhering to Level-4 sovereign stack standards
