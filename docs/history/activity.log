@@ -1,1 +1,1 @@
-[2026-05-04 19:03:07 +02:00] refactor(audit-trail): streamline internal state transitions in audit-trail controller across all deployment profiles
+[2026-05-04 20:08:40 +02:00] test(audit-trail): strengthen assertion thresholds in audit-trail test suite adhering to Level-4 sovereign stack standards
