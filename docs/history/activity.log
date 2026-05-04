@@ -1,1 +1,1 @@
-[2026-05-04 10:14:10 +02:00] perf(subcontractor): minimize garbage collection churn during Monte Carlo iterations with graceful offline fallback
+[2026-05-04 11:19:35 +02:00] fix(theme): adjust contrast in dark/light mode for criteria radar charts ensuring idempotent state updates
