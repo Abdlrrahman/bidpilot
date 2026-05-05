@@ -1,1 +1,1 @@
-[2026-05-05 15:06:05 +02:00] feat(test): subcontractor markup and contingency risk buffer calculator with graceful offline fallback
+[2026-05-05 16:34:05 +02:00] fix(rfp): fix rounding precision in multi-currency exchange rate tables to ensure deterministic execution
