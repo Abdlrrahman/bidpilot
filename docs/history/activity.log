@@ -1,1 +1,1 @@
-[2026-05-04 20:08:40 +02:00] test(audit-trail): strengthen assertion thresholds in audit-trail test suite adhering to Level-4 sovereign stack standards
+[2026-05-05 10:40:11 +02:00] test(risk-buffer): verify deterministic execution boundary for risk-buffer with graceful offline fallback
