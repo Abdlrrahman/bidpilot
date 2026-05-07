@@ -1,1 +1,1 @@
-[2026-05-07 13:48:06 +02:00] feat(winners-curse): break-even probability curves across multi-contractor bid scenarios with sub-millisecond execution latency
+[2026-05-07 15:18:24 +02:00] test(subcontractor): add property-based invariance tests for subcontractor algorithms for local-first air-gapped readiness
