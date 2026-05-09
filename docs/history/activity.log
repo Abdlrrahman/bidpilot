@@ -1,1 +1,1 @@
-[2026-05-09 13:16:52 +02:00] fix(winners-curse): fix rounding precision in multi-currency exchange rate tables with error boundary safeguards
+[2026-05-09 17:11:40 +02:00] feat(competitor): break-even probability curves across multi-contractor bid scenarios with strict TypeScript type-checking
