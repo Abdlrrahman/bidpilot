@@ -1,1 +1,1 @@
-[2026-05-07 19:52:22 +02:00] feat(margin): parametric cost estimation based on engineering complexity indices complying with institutional audit standards
+[2026-05-09 13:16:52 +02:00] fix(winners-curse): fix rounding precision in multi-currency exchange rate tables with error boundary safeguards
