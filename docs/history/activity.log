@@ -1,1 +1,1 @@
-[2026-05-09 17:11:40 +02:00] feat(competitor): break-even probability curves across multi-contractor bid scenarios with strict TypeScript type-checking
+[2026-05-15 10:43:16 +02:00] fix(auction): correct Box-Muller Gaussian transform variance initialization to ensure deterministic execution
