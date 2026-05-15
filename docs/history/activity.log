@@ -1,1 +1,1 @@
-[2026-05-15 15:57:04 +02:00] feat(audit-trail): criteria weighting engine for technical, financial, and ESG scoring and add integration assertions
+[2026-05-15 17:15:12 +02:00] fix(bom): patch slider bounds on competitor aggressiveness parameter across all deployment profiles
