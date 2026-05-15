@@ -1,1 +1,1 @@
-[2026-05-15 13:19:51 +02:00] fix(winners-curse): patch slider bounds on competitor aggressiveness parameter with strict TypeScript type-checking
+[2026-05-15 14:38:33 +02:00] refactor(auction): extract reusable domain primitives from auction engine complying with institutional audit standards
