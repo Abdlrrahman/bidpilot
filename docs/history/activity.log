@@ -1,1 +1,1 @@
-[2026-05-15 17:15:12 +02:00] fix(bom): patch slider bounds on competitor aggressiveness parameter across all deployment profiles
+[2026-05-15 18:32:47 +02:00] fix(subcontractor): prevent negative contingency risk buffer on extreme discount inputs with optimized memory allocation
