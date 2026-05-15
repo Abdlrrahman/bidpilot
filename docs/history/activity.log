@@ -1,1 +1,1 @@
-[2026-05-15 18:32:47 +02:00] fix(subcontractor): prevent negative contingency risk buffer on extreme discount inputs with optimized memory allocation
+[2026-05-15 19:51:27 +02:00] feat(auction): competitor aggression parameter tuning with historical win curves with error boundary safeguards
