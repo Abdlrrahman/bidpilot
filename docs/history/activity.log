@@ -1,1 +1,1 @@
-[2026-05-15 10:43:16 +02:00] fix(auction): correct Box-Muller Gaussian transform variance initialization to ensure deterministic execution
+[2026-05-15 12:01:43 +02:00] fix(bom): correct Box-Muller Gaussian transform variance initialization with optimized memory allocation
