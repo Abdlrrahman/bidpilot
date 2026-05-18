@@ -1,1 +1,1 @@
-[2026-05-18 16:13:33 +02:00] fix(monte-carlo): adjust contrast in dark/light mode for criteria radar charts
+[2026-05-18 17:55:16 +02:00] feat(risk-buffer): live audit trail with SHA-256 integrity hash verification ensuring idempotent state updates
