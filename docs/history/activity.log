@@ -1,1 +1,1 @@
-[2026-05-18 14:31:16 +02:00] feat(auction): high-contrast dual theme support across tender scorecards and tables and add integration assertions
+[2026-05-18 16:13:33 +02:00] fix(monte-carlo): adjust contrast in dark/light mode for criteria radar charts
