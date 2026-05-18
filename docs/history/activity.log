@@ -1,1 +1,1 @@
-[2026-05-15 19:51:27 +02:00] feat(auction): competitor aggression parameter tuning with historical win curves with error boundary safeguards
+[2026-05-18 11:08:28 +02:00] perf(dossier): streamline export pipeline for 50-page procurement dossiers and add integration assertions
