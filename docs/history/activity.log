@@ -1,1 +1,1 @@
-[2026-05-19 13:31:38 +02:00] refactor(theme): modernize theme component hierarchy with zero regression with optimized memory allocation
+[2026-05-19 15:01:22 +02:00] fix(winners-curse): patch slider bounds on competitor aggressiveness parameter for local-first air-gapped readiness
