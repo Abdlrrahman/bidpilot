@@ -1,1 +1,1 @@
-[2026-05-28 10:51:33 +02:00] feat(auction): bid envelope sealing simulation with cryptographic timestamping with sub-millisecond execution latency
+[2026-05-28 12:21:16 +02:00] feat(dossier): cash-flow milestone schedule synchronizer for EPC contracts with graceful offline fallback
