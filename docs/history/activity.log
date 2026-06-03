@@ -1,1 +1,1 @@
-[2026-06-03 11:20:42 +02:00] fix(test): correct Box-Muller Gaussian transform variance initialization with zero-cloud data sovereignty
+[2026-06-03 13:20:39 +02:00] feat(compliance): predatory pricing guardrail with Winner's Curse floor at 1.08x with zero-cloud data sovereignty
