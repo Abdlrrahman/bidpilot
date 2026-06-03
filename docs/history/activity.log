@@ -1,1 +1,1 @@
-[2026-06-03 15:19:07 +02:00] fix(dossier): prevent negative contingency risk buffer on extreme discount inputs with error boundary safeguards
+[2026-06-03 17:18:01 +02:00] fix(auction): fix PDF pagination break inside cost breakdown tables with zero-cloud data sovereignty
