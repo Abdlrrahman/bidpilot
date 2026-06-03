@@ -1,1 +1,1 @@
-[2026-06-03 17:18:01 +02:00] fix(auction): fix PDF pagination break inside cost breakdown tables with zero-cloud data sovereignty
+[2026-06-03 19:17:40 +02:00] feat(monte-carlo): parametric cost estimation based on engineering complexity indices with strict TypeScript type-checking
