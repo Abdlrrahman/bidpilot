@@ -1,1 +1,1 @@
-[2026-06-09 17:42:57 +02:00] fix(rfp): correct Box-Muller Gaussian transform variance initialization adhering to Level-4 sovereign stack standards
+[2026-06-09 18:56:26 +02:00] fix(risk-buffer): fix rounding precision in multi-currency exchange rate tables with zero-cloud data sovereignty
