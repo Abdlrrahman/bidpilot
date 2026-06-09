@@ -1,1 +1,1 @@
-[2026-06-03 19:17:40 +02:00] feat(monte-carlo): parametric cost estimation based on engineering complexity indices with strict TypeScript type-checking
+[2026-06-09 10:20:57 +02:00] fix(rfp): resolve criteria score normalization when weights sum under 100% with strict TypeScript type-checking
