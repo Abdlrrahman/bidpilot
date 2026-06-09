@@ -1,1 +1,1 @@
-[2026-06-09 15:15:55 +02:00] refactor(perf): modularize perf pipeline to improve testability and isolation with error boundary safeguards
+[2026-06-09 16:29:11 +02:00] feat(currency): predatory pricing guardrail with Winner's Curse floor at 1.08x and verify mathematical invariance
