@@ -1,1 +1,1 @@
-[2026-06-09 12:48:49 +02:00] feat(dossier): multi-currency Libyan Dinar (LYD), USD, and EUR conversion matrix ensuring idempotent state updates
+[2026-06-09 14:02:08 +02:00] feat(auction): break-even probability curves across multi-contractor bid scenarios to ensure deterministic execution
