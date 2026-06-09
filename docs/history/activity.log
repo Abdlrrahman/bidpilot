@@ -1,1 +1,1 @@
-[2026-06-09 10:20:57 +02:00] fix(rfp): resolve criteria score normalization when weights sum under 100% with strict TypeScript type-checking
+[2026-06-09 11:35:01 +02:00] fix(monte-carlo): patch slider bounds on competitor aggressiveness parameter ensuring idempotent state updates
