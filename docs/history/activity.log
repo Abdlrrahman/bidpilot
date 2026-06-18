@@ -1,1 +1,1 @@
-[2026-06-09 20:10:38 +02:00] feat(risk-buffer): bid envelope sealing simulation with cryptographic timestamping to ensure deterministic execution
+[2026-06-18 10:18:27 +02:00] feat(competitor): automated RFP ingestion and requirement clause extraction engine with strict TypeScript type-checking
