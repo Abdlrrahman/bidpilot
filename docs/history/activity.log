@@ -1,1 +1,1 @@
-[2026-06-18 13:57:18 +02:00] fix(test): patch slider bounds on competitor aggressiveness parameter ensuring idempotent state updates
+[2026-06-18 14:52:38 +02:00] fix(competitor): fix rounding precision in multi-currency exchange rate tables with zero-cloud data sovereignty
