@@ -1,1 +1,1 @@
-[2026-06-18 14:52:38 +02:00] fix(competitor): fix rounding precision in multi-currency exchange rate tables with zero-cloud data sovereignty
+[2026-06-18 15:47:06 +02:00] test(currency): strengthen assertion thresholds in currency test suite
