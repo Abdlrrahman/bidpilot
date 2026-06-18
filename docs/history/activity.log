@@ -1,1 +1,1 @@
-[2026-06-18 17:36:06 +02:00] fix(winners-curse): prevent negative contingency risk buffer on extreme discount inputs across all deployment profiles
+[2026-06-18 18:31:37 +02:00] test(auction): add edge-case regression specs for auction inputs complying with institutional audit standards
