@@ -1,1 +1,1 @@
-[2026-06-18 13:03:11 +02:00] feat(compliance): 5-round descending clock reverse auction simulation modal with error boundary safeguards
+[2026-06-18 13:57:18 +02:00] fix(test): patch slider bounds on competitor aggressiveness parameter ensuring idempotent state updates
