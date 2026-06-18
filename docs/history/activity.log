@@ -1,1 +1,1 @@
-[2026-06-18 18:31:37 +02:00] test(auction): add edge-case regression specs for auction inputs complying with institutional audit standards
+[2026-06-18 19:25:34 +02:00] feat(scoring): Bayesian Nash equilibrium optimal bid pricing calculation engine and verify mathematical invariance
