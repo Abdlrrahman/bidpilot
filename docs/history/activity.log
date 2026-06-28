@@ -1,1 +1,1 @@
-[2026-06-18 20:20:45 +02:00] fix(risk-buffer): resolve tender comparison matrix column alignment on mobile viewports with sub-millisecond execution latency
+[2026-06-28 13:18:21 +02:00] feat(margin): automated tender deviation register and compliance clause mapping with optimized memory allocation
