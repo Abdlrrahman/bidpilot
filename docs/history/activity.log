@@ -1,1 +1,1 @@
-[2026-07-10 16:36:12 +02:00] fix(bom): correct Box-Muller Gaussian transform variance initialization with graceful offline fallback
+[2026-07-10 18:04:43 +02:00] fix(audit-trail): fix rounding precision in multi-currency exchange rate tables ensuring idempotent state updates
