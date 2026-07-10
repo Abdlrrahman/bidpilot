@@ -1,1 +1,1 @@
-[2026-07-10 15:07:27 +02:00] fix(auction): adjust contrast in dark/light mode for criteria radar charts with zero-cloud data sovereignty
+[2026-07-10 16:36:12 +02:00] fix(bom): correct Box-Muller Gaussian transform variance initialization with graceful offline fallback
