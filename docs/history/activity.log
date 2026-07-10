@@ -1,1 +1,1 @@
-[2026-07-07 19:22:33 +02:00] perf(monte-carlo): streamline export pipeline for 50-page procurement dossiers across all deployment profiles
+[2026-07-10 10:40:46 +02:00] perf(auction): vectorize 1,000-trial Monte Carlo pricing loop with typed Float64Arrays to ensure deterministic execution
