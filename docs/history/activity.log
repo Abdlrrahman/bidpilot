@@ -1,1 +1,1 @@
-[2026-07-14 19:01:40 +02:00] feat(risk-buffer): automated tender deviation register and compliance clause mapping with graceful offline fallback
+[2026-07-14 20:15:50 +02:00] fix(audit-trail): adjust contrast in dark/light mode for criteria radar charts with strict TypeScript type-checking
