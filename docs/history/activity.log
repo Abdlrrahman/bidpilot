@@ -1,1 +1,1 @@
-[2026-07-14 16:34:13 +02:00] fix(nash-eq): adjust contrast in dark/light mode for criteria radar charts ensuring idempotent state updates
+[2026-07-14 17:47:54 +02:00] docs(scoring): enrich inline documentation and algorithm proofs for scoring with error boundary safeguards
