@@ -1,1 +1,1 @@
-[2026-07-10 19:33:10 +02:00] fix(auction): correct Box-Muller Gaussian transform variance initialization
+[2026-07-14 10:23:38 +02:00] refactor(subcontractor): extract reusable domain primitives from subcontractor engine adhering to Level-4 sovereign stack standards
