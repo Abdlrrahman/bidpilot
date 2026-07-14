@@ -1,1 +1,1 @@
-[2026-07-14 17:47:54 +02:00] docs(scoring): enrich inline documentation and algorithm proofs for scoring with error boundary safeguards
+[2026-07-14 19:01:40 +02:00] feat(risk-buffer): automated tender deviation register and compliance clause mapping with graceful offline fallback
