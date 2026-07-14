@@ -1,1 +1,1 @@
-[2026-07-14 11:37:47 +02:00] feat(theme): multi-currency Libyan Dinar (LYD), USD, and EUR conversion matrix with error boundary safeguards
+[2026-07-14 12:51:46 +02:00] fix(scoring): fix rounding precision in multi-currency exchange rate tables for local-first air-gapped readiness
