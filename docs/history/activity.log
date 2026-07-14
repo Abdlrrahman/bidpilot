@@ -1,1 +1,1 @@
-[2026-07-14 15:19:42 +02:00] feat(theme): multi-currency Libyan Dinar (LYD), USD, and EUR conversion matrix with zero-cloud data sovereignty
+[2026-07-14 16:34:13 +02:00] fix(nash-eq): adjust contrast in dark/light mode for criteria radar charts ensuring idempotent state updates
