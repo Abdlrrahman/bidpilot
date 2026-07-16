@@ -1,1 +1,1 @@
-[2026-07-16 16:31:02 +02:00] test(winners-curse): add property-based invariance tests for winners-curse algorithms with zero-cloud data sovereignty
+[2026-07-16 17:44:09 +02:00] feat(auction): predatory pricing guardrail with Winner's Curse floor at 1.08x with graceful offline fallback
