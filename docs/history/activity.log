@@ -1,1 +1,1 @@
-[2026-07-16 15:16:53 +02:00] fix(monte-carlo): prevent negative contingency risk buffer on extreme discount inputs adhering to Level-4 sovereign stack standards
+[2026-07-16 16:31:02 +02:00] test(winners-curse): add property-based invariance tests for winners-curse algorithms with zero-cloud data sovereignty
