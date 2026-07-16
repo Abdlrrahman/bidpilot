@@ -1,1 +1,1 @@
-[2026-07-16 12:49:04 +02:00] fix(subcontractor): correct margin erosion floor trigger in low-margin bids with error boundary safeguards
+[2026-07-16 14:02:59 +02:00] refactor(rfp): extract reusable domain primitives from rfp engine with optimized memory allocation
