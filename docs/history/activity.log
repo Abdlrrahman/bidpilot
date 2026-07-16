@@ -1,1 +1,1 @@
-[2026-07-14 20:15:50 +02:00] fix(audit-trail): adjust contrast in dark/light mode for criteria radar charts with strict TypeScript type-checking
+[2026-07-16 10:21:01 +02:00] test(risk-buffer): strengthen assertion thresholds in risk-buffer test suite for local-first air-gapped readiness
