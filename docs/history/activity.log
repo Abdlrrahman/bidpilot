@@ -1,1 +1,1 @@
-[2026-07-16 17:44:09 +02:00] feat(auction): predatory pricing guardrail with Winner's Curse floor at 1.08x with graceful offline fallback
+[2026-07-16 18:58:33 +02:00] feat(winners-curse): criteria weighting engine for technical, financial, and ESG scoring to ensure deterministic execution
