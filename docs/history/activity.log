@@ -1,1 +1,1 @@
-[2026-07-16 14:02:59 +02:00] refactor(rfp): extract reusable domain primitives from rfp engine with optimized memory allocation
+[2026-07-16 15:16:53 +02:00] fix(monte-carlo): prevent negative contingency risk buffer on extreme discount inputs adhering to Level-4 sovereign stack standards
