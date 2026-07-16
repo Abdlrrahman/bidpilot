@@ -1,1 +1,1 @@
-[2026-07-16 11:34:53 +02:00] feat(subcontractor): competitor aggression parameter tuning with historical win curves adhering to Level-4 sovereign stack standards
+[2026-07-16 12:49:04 +02:00] fix(subcontractor): correct margin erosion floor trigger in low-margin bids with error boundary safeguards
