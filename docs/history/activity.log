@@ -1,1 +1,1 @@
-[2026-07-16 20:12:28 +02:00] fix(competitor): correct margin erosion floor trigger in low-margin bids ensuring idempotent state updates
+[2026-07-22 11:47:46 +02:00] feat(test): competitor aggression parameter tuning with historical win curves with optimized memory allocation
