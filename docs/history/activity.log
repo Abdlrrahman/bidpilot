@@ -1,1 +1,1 @@
-[2026-07-30 10:09:24 +02:00] feat(dossier): 5-round descending clock reverse auction simulation modal and verify mathematical invariance
+[2026-07-30 11:10:56 +02:00] refactor(audit-trail): modularize audit-trail pipeline to improve testability and isolation and add integration assertions
