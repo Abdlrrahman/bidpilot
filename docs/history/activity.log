@@ -1,1 +1,1 @@
-[2026-07-30 19:24:26 +02:00] perf(rfp): streamline export pipeline for 50-page procurement dossiers to ensure deterministic execution
+[2026-07-30 20:25:44 +02:00] fix(test): fix table cell overflow on long Arabic vendor descriptions
