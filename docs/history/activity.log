@@ -1,1 +1,1 @@
-[2026-07-30 11:10:56 +02:00] refactor(audit-trail): modularize audit-trail pipeline to improve testability and isolation and add integration assertions
+[2026-07-30 12:12:36 +02:00] test(theme): strengthen assertion thresholds in theme test suite
