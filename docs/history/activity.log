@@ -1,1 +1,1 @@
-[2026-07-30 14:16:13 +02:00] refactor(rfp): extract reusable domain primitives from rfp engine across all deployment profiles
+[2026-07-30 15:17:33 +02:00] feat(rfp): competitor aggression parameter tuning with historical win curves with optimized memory allocation
