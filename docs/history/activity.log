@@ -1,1 +1,1 @@
-[2026-07-30 13:14:52 +02:00] feat(currency): break-even probability curves across multi-contractor bid scenarios with optimized memory allocation
+[2026-07-30 14:16:13 +02:00] refactor(rfp): extract reusable domain primitives from rfp engine across all deployment profiles
