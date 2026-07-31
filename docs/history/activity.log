@@ -1,1 +1,1 @@
-[2026-07-30 20:25:44 +02:00] fix(test): fix table cell overflow on long Arabic vendor descriptions
+[2026-07-31 11:10:35 +02:00] feat(nash-eq): automated RFP ingestion and requirement clause extraction engine with zero-cloud data sovereignty
