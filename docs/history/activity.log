@@ -1,1 +1,1 @@
-[2026-07-31 14:33:10 +02:00] feat(rfp): automated RFP ingestion and requirement clause extraction engine with error boundary safeguards
+[2026-07-31 16:13:55 +02:00] fix(test): fix PDF pagination break inside cost breakdown tables to ensure deterministic execution
