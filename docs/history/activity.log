@@ -1,1 +1,1 @@
-[2026-07-31 11:10:35 +02:00] feat(nash-eq): automated RFP ingestion and requirement clause extraction engine with zero-cloud data sovereignty
+[2026-07-31 12:51:24 +02:00] perf(risk-buffer): optimize scoring radar chart re-renders on slider changes with sub-millisecond execution latency
