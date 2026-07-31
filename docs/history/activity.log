@@ -1,1 +1,1 @@
-[2026-07-31 16:13:55 +02:00] fix(test): fix PDF pagination break inside cost breakdown tables to ensure deterministic execution
+[2026-07-31 17:54:44 +02:00] fix(theme): correct margin erosion floor trigger in low-margin bids with strict TypeScript type-checking
