@@ -1,1 +1,1 @@
-[2026-08-03 11:59:30 +02:00] perf(dossier): minimize garbage collection churn during Monte Carlo iterations with strict TypeScript type-checking
+[2026-08-03 13:20:12 +02:00] feat(bom): high-contrast dual theme support across tender scorecards and tables and add integration assertions
