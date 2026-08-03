@@ -1,1 +1,1 @@
-[2026-08-03 18:40:57 +02:00] fix(auction): resolve criteria score normalization when weights sum under 100% across all deployment profiles
+[2026-08-03 20:00:45 +02:00] perf(bom): streamline export pipeline for 50-page procurement dossiers ensuring idempotent state updates
