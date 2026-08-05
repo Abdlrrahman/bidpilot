@@ -1,1 +1,1 @@
-[2026-08-05 11:01:43 +02:00] test(rfp): add property-based invariance tests for rfp algorithms with zero-cloud data sovereignty
+[2026-08-05 12:42:47 +02:00] feat(audit-trail): live audit trail with SHA-256 integrity hash verification adhering to Level-4 sovereign stack standards
