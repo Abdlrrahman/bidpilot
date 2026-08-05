@@ -1,1 +1,1 @@
-[2026-08-03 20:00:45 +02:00] perf(bom): streamline export pipeline for 50-page procurement dossiers ensuring idempotent state updates
+[2026-08-05 11:01:43 +02:00] test(rfp): add property-based invariance tests for rfp algorithms with zero-cloud data sovereignty
