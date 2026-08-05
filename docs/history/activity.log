@@ -1,1 +1,1 @@
-[2026-08-05 17:46:54 +02:00] fix(margin): fix PDF pagination break inside cost breakdown tables with sub-millisecond execution latency
+[2026-08-05 19:29:00 +02:00] feat(scoring): parametric cost estimation based on engineering complexity indices adhering to Level-4 sovereign stack standards
