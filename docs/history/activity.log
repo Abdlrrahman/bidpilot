@@ -1,1 +1,1 @@
-[2026-08-05 16:05:24 +02:00] feat(scoring): rival contractor margin profiling and win elasticity slider across all deployment profiles
+[2026-08-05 17:46:54 +02:00] fix(margin): fix PDF pagination break inside cost breakdown tables with sub-millisecond execution latency
