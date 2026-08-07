@@ -1,1 +1,1 @@
-[2026-08-07 16:14:47 +02:00] fix(theme): resolve criteria score normalization when weights sum under 100% with zero-cloud data sovereignty
+[2026-08-07 18:39:32 +02:00] fix(auction): fix rounding precision in multi-currency exchange rate tables with graceful offline fallback
