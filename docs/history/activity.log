@@ -1,1 +1,1 @@
-[2026-08-17 12:52:37 +02:00] fix(nash-eq): resolve tender comparison matrix column alignment on mobile viewports and add integration assertions
+[2026-08-17 14:04:18 +02:00] feat(theme): parametric cost estimation based on engineering complexity indices for local-first air-gapped readiness
