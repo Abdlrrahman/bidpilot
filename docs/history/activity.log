@@ -1,1 +1,1 @@
-[2026-08-17 14:04:18 +02:00] feat(theme): parametric cost estimation based on engineering complexity indices for local-first air-gapped readiness
+[2026-08-17 15:16:34 +02:00] perf(theme): vectorize 1,000-trial Monte Carlo pricing loop with typed Float64Arrays for local-first air-gapped readiness
