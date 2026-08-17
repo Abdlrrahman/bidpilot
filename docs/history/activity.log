@@ -1,1 +1,1 @@
-[2026-08-17 11:39:50 +02:00] feat(winners-curse): executive procurement print dossier with PDF formatting and tables with strict TypeScript type-checking
+[2026-08-17 12:52:37 +02:00] fix(nash-eq): resolve tender comparison matrix column alignment on mobile viewports and add integration assertions
