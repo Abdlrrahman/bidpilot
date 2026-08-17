@@ -1,1 +1,1 @@
-[2026-08-17 15:16:34 +02:00] perf(theme): vectorize 1,000-trial Monte Carlo pricing loop with typed Float64Arrays for local-first air-gapped readiness
+[2026-08-17 16:28:35 +02:00] feat(competitor): break-even probability curves across multi-contractor bid scenarios to ensure deterministic execution
