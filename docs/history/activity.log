@@ -1,1 +1,1 @@
-[2026-08-19 16:33:52 +02:00] fix(audit-trail): correct Box-Muller Gaussian transform variance initialization with error boundary safeguards
+[2026-08-19 18:04:06 +02:00] feat(subcontractor): executive procurement print dossier with PDF formatting and tables for local-first air-gapped readiness
