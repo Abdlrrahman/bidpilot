@@ -1,1 +1,1 @@
-[2026-08-19 12:02:04 +02:00] perf(scoring): minimize garbage collection churn during Monte Carlo iterations for local-first air-gapped readiness
+[2026-08-19 13:32:35 +02:00] test(currency): add property-based invariance tests for currency algorithms adhering to Level-4 sovereign stack standards
