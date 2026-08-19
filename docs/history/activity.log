@@ -1,1 +1,1 @@
-[2026-08-19 10:30:52 +02:00] feat(theme): hierarchical bill of materials (BOM) cost breakdown structure with strict TypeScript type-checking
+[2026-08-19 12:02:04 +02:00] perf(scoring): minimize garbage collection churn during Monte Carlo iterations for local-first air-gapped readiness
