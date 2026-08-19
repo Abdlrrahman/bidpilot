@@ -1,1 +1,1 @@
-[2026-08-19 15:02:26 +02:00] refactor(bom): modularize bom pipeline to improve testability and isolation with error boundary safeguards
+[2026-08-19 16:33:52 +02:00] fix(audit-trail): correct Box-Muller Gaussian transform variance initialization with error boundary safeguards
