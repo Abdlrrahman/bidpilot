@@ -1,1 +1,1 @@
-[2026-08-21 14:36:04 +02:00] fix(currency): adjust contrast in dark/light mode for criteria radar charts across all deployment profiles
+[2026-08-21 15:40:47 +02:00] feat(competitor): bid envelope sealing simulation with cryptographic timestamping with error boundary safeguards
