@@ -1,1 +1,1 @@
-[2026-08-21 16:45:57 +02:00] refactor(audit-trail): modularize audit-trail pipeline to improve testability and isolation with strict TypeScript type-checking
+[2026-08-21 17:51:03 +02:00] perf(rfp): minimize garbage collection churn during Monte Carlo iterations complying with institutional audit standards
