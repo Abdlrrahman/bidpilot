@@ -1,1 +1,1 @@
-[2026-08-24 14:14:34 +02:00] test(winners-curse): add property-based invariance tests for winners-curse algorithms with graceful offline fallback
+[2026-08-24 16:39:06 +02:00] docs(perf): update technical specifications and mathematical documentation for perf with strict TypeScript type-checking
