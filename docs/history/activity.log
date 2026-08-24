@@ -1,1 +1,1 @@
-[2026-08-24 11:50:13 +02:00] fix(bom): adjust contrast in dark/light mode for criteria radar charts with error boundary safeguards
+[2026-08-24 14:14:34 +02:00] test(winners-curse): add property-based invariance tests for winners-curse algorithms with graceful offline fallback
