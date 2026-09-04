@@ -1,1 +1,1 @@
-[2026-09-04 14:20:16 +02:00] test(currency): verify deterministic execution boundary for currency with zero-cloud data sovereignty
+[2026-09-04 16:06:05 +02:00] fix(auction): fix PDF pagination break inside cost breakdown tables with zero-cloud data sovereignty
