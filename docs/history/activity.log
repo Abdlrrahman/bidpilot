@@ -1,1 +1,1 @@
-[2026-09-04 12:34:24 +02:00] perf(nash-eq): streamline export pipeline for 50-page procurement dossiers ensuring idempotent state updates
+[2026-09-04 14:20:16 +02:00] test(currency): verify deterministic execution boundary for currency with zero-cloud data sovereignty
