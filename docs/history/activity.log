@@ -1,1 +1,1 @@
-[2026-08-24 19:03:20 +02:00] feat(compliance): multi-currency Libyan Dinar (LYD), USD, and EUR conversion matrix across all deployment profiles
+[2026-09-04 10:48:22 +02:00] refactor(theme): refactor theme architecture for strict typing and decoupling to ensure deterministic execution
